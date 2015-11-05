@@ -1,0 +1,2389 @@
+- 11:14:35.015 INFO: --------------------------------------------------------
+- 11:14:35.015 INFO: Started application
+- 11:14:35.015 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 11:14:35.015 INFO: Log level = INFO
+- 11:14:35.015 INFO: Starting Mongoose web server
+- 11:14:35.015 INFO: Web server url: http://127.0.0.1:54007/
+- 11:14:35.015 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 11:14:35.015 INFO: Index files: index.html,index.php
+- 11:14:35.015 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 11:14:35.015 INFO: CGI pattern: **.php$
+- 11:14:35.015 INFO: IE version from registry: 8.0.7600.16385
+- 11:14:35.718 INFO: GET 200 /
+- 11:14:42.828 INFO: GET 200 /index.php
+- 11:14:45.484 INFO: GET 200 /index.php
+- 11:14:46.422 INFO: GET 200 /index.php
+- 11:14:47.093 INFO: GET 200 /index.php
+- 11:14:47.656 INFO: GET 200 /index.php
+- 11:14:48.687 INFO: GET 200 /phpinfo.php?=PHPE9568F34-D428-11d2-A769-00AA001ACF42
+- 11:14:48.765 INFO: GET 200 /phpinfo.php?=PHPE9568F35-D428-11d2-A769-00AA001ACF42
+- 11:14:49.797 INFO: GET 200 /phpinfo.php
+- 11:14:51.125 INFO: GET 200 /index.php
+- 11:14:53.906 INFO: GET 200 /test_404.php
+- 11:14:54.297 INFO: GET 200 /index.php
+- 11:14:55.375 INFO: GET 200 /index.php
+- 11:14:56.218 INFO: GET 200 /index.php
+- 11:14:58.859 INFO: GET 200 /index.php
+- 11:14:58.468 INFO: GET 200 /index.php
+- 11:15:03.906 INFO: Stopping Mongoose web server
+- 11:15:03.000 INFO: Ended application
+- 11:15:03.000 INFO: --------------------------------------------------------
+- 11:21:31.000 INFO: --------------------------------------------------------
+- 11:21:31.000 INFO: Started application
+- 11:21:31.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 11:21:31.000 INFO: Log level = INFO
+- 11:21:31.000 INFO: Starting Mongoose web server
+- 11:21:31.000 INFO: Web server url: http://127.0.0.1:54007/
+- 11:21:31.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 11:21:31.000 INFO: Index files: index.html,index.php
+- 11:21:31.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 11:21:31.000 INFO: CGI pattern: **.php$
+- 11:21:31.000 INFO: IE version from registry: 8.0.7600.16385
+- 11:21:31.328 INFO: GET 200 /
+- 11:49:43.844 INFO: Stopping Mongoose web server
+- 11:49:43.922 INFO: Ended application
+- 11:49:43.922 INFO: --------------------------------------------------------
+- 11:49:48.000 INFO: --------------------------------------------------------
+- 11:49:48.000 INFO: Started application
+- 11:49:48.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 11:49:48.000 INFO: Log level = INFO
+- 11:49:48.000 INFO: Starting Mongoose web server
+- 11:49:48.000 INFO: Web server url: http://127.0.0.1:54007/
+- 11:49:48.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 11:49:48.000 INFO: Index files: index.html,index.php
+- 11:49:48.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 11:49:48.000 INFO: CGI pattern: **.php$
+- 11:49:48.000 INFO: IE version from registry: 8.0.7600.16385
+- 11:49:49.281 INFO: GET 200 /
+- 11:50:32.297 INFO: Stopping Mongoose web server
+- 11:50:32.359 INFO: Ended application
+- 11:50:32.359 INFO: --------------------------------------------------------
+- 11:54:41.000 INFO: --------------------------------------------------------
+- 11:54:41.000 INFO: Started application
+- 11:54:41.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 11:54:41.000 INFO: Log level = INFO
+- 11:54:41.000 INFO: Starting Mongoose web server
+- 11:54:41.000 INFO: Web server url: http://127.0.0.1:54007/
+- 11:54:41.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 11:54:41.000 INFO: Index files: index.html,index.php
+- 11:54:41.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 11:54:41.000 INFO: CGI pattern: **.php$
+- 11:54:41.016 INFO: IE version from registry: 8.0.7600.16385
+- 11:54:41.250 INFO: GET 200 /
+- 11:54:47.000 INFO: POST 200 /index.php?act=upload
+- 11:56:02.531 INFO: Stopping Mongoose web server
+- 11:56:02.594 INFO: Ended application
+- 11:56:02.594 INFO: --------------------------------------------------------
+- 11:56:09.000 INFO: --------------------------------------------------------
+- 11:56:09.000 INFO: Started application
+- 11:56:09.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 11:56:09.000 INFO: Log level = INFO
+- 11:56:09.000 INFO: Starting Mongoose web server
+- 11:56:09.000 INFO: Web server url: http://127.0.0.1:54007/
+- 11:56:09.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 11:56:09.000 INFO: Index files: index.html,index.php
+- 11:56:09.015 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 11:56:09.015 INFO: CGI pattern: **.php$
+- 11:56:09.015 INFO: IE version from registry: 8.0.7600.16385
+- 11:56:10.203 INFO: GET 200 /
+- 11:56:16.156 INFO: POST 200 /index.php?act=upload
+- 11:56:47.015 INFO: Stopping Mongoose web server
+- 11:56:47.109 INFO: Ended application
+- 11:56:47.109 INFO: --------------------------------------------------------
+- 11:56:53.000 INFO: --------------------------------------------------------
+- 11:56:53.000 INFO: Started application
+- 11:56:53.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 11:56:53.000 INFO: Log level = INFO
+- 11:56:53.000 INFO: Starting Mongoose web server
+- 11:56:53.000 INFO: Web server url: http://127.0.0.1:54007/
+- 11:56:53.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 11:56:53.000 INFO: Index files: index.html,index.php
+- 11:56:53.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 11:56:53.000 INFO: CGI pattern: **.php$
+- 11:56:53.000 INFO: IE version from registry: 8.0.7600.16385
+- 11:56:53.188 INFO: GET 200 /
+- 11:57:07.906 INFO: POST 200 /index.php?act=upload
+- 11:57:53.063 INFO: Stopping Mongoose web server
+- 11:57:53.109 INFO: Ended application
+- 11:57:53.109 INFO: --------------------------------------------------------
+- 11:57:58.000 INFO: --------------------------------------------------------
+- 11:57:58.000 INFO: Started application
+- 11:57:58.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 11:57:58.000 INFO: Log level = INFO
+- 11:57:58.000 INFO: Starting Mongoose web server
+- 11:57:58.000 INFO: Web server url: http://127.0.0.1:54007/
+- 11:57:58.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 11:57:58.000 INFO: Index files: index.html,index.php
+- 11:57:58.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 11:57:58.000 INFO: CGI pattern: **.php$
+- 11:57:58.000 INFO: IE version from registry: 8.0.7600.16385
+- 11:57:59.203 INFO: GET 200 /
+- 11:58:10.547 INFO: POST 200 /index.php?act=upload
+- 11:59:43.172 INFO: Stopping Mongoose web server
+- 11:59:43.391 INFO: Ended application
+- 11:59:43.391 INFO: --------------------------------------------------------
+- 11:59:47.000 INFO: --------------------------------------------------------
+- 11:59:47.000 INFO: Started application
+- 11:59:47.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 11:59:47.000 INFO: Log level = INFO
+- 11:59:47.000 INFO: Starting Mongoose web server
+- 11:59:47.000 INFO: Web server url: http://127.0.0.1:54007/
+- 11:59:47.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 11:59:47.000 INFO: Index files: index.html,index.php
+- 11:59:47.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 11:59:47.000 INFO: CGI pattern: **.php$
+- 11:59:47.000 INFO: IE version from registry: 8.0.7600.16385
+- 11:59:47.281 INFO: GET 200 /
+- 12:00:03.109 INFO: POST 200 /index.php?act=upload
+- 12:00:45.656 INFO: Stopping Mongoose web server
+- 12:00:45.671 INFO: Ended application
+- 12:00:45.671 INFO: --------------------------------------------------------
+- 12:00:51.016 INFO: --------------------------------------------------------
+- 12:00:51.016 INFO: Started application
+- 12:00:51.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:00:51.016 INFO: Log level = INFO
+- 12:00:51.016 INFO: Starting Mongoose web server
+- 12:00:51.016 INFO: Web server url: http://127.0.0.1:54007/
+- 12:00:51.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:00:51.016 INFO: Index files: index.html,index.php
+- 12:00:51.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:00:51.016 INFO: CGI pattern: **.php$
+- 12:00:51.032 INFO: IE version from registry: 8.0.7600.16385
+- 12:00:51.219 INFO: GET 200 /
+- 12:00:56.657 INFO: POST 200 /index.php?act=upload
+- 12:02:16.672 INFO: Stopping Mongoose web server
+- 12:02:16.860 INFO: Ended application
+- 12:02:16.860 INFO: --------------------------------------------------------
+- 12:02:23.000 INFO: --------------------------------------------------------
+- 12:02:23.000 INFO: Started application
+- 12:02:23.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:02:23.000 INFO: Log level = INFO
+- 12:02:23.000 INFO: Starting Mongoose web server
+- 12:02:23.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:02:23.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:02:23.000 INFO: Index files: index.html,index.php
+- 12:02:23.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:02:23.000 INFO: CGI pattern: **.php$
+- 12:02:23.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:02:24.328 INFO: GET 200 /
+- 12:02:28.063 INFO: POST 200 /index.php?act=upload
+- 12:07:04.313 INFO: Stopping Mongoose web server
+- 12:07:04.453 INFO: Ended application
+- 12:07:04.469 INFO: --------------------------------------------------------
+- 12:07:09.000 INFO: --------------------------------------------------------
+- 12:07:09.000 INFO: Started application
+- 12:07:09.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:07:09.000 INFO: Log level = INFO
+- 12:07:09.000 INFO: Starting Mongoose web server
+- 12:07:09.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:07:09.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:07:09.000 INFO: Index files: index.html,index.php
+- 12:07:09.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:07:09.000 INFO: CGI pattern: **.php$
+- 12:07:09.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:07:09.203 INFO: GET 200 /
+- 12:07:14.047 INFO: POST 200 /index.php?act=upload
+- 12:07:23.406 INFO: Stopping Mongoose web server
+- 12:07:23.578 INFO: Ended application
+- 12:07:23.578 INFO: --------------------------------------------------------
+- 12:09:16.000 INFO: --------------------------------------------------------
+- 12:09:16.000 INFO: Started application
+- 12:09:16.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:09:16.000 INFO: Log level = INFO
+- 12:09:16.000 INFO: Starting Mongoose web server
+- 12:09:16.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:09:16.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:09:16.000 INFO: Index files: index.html,index.php
+- 12:09:16.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:09:16.000 INFO: CGI pattern: **.php$
+- 12:09:16.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:09:16.219 INFO: GET 200 /
+- 12:09:23.766 INFO: POST 404 /upload.php
+- 12:09:23.797 WARNING: BrowserWindow::DisplayErrorPage() failed: file not found: C:\Users\User\Desktop\Vdownload Tool\www\error_page.html
+- 12:09:30.860 INFO: Stopping Mongoose web server
+- 12:09:30.985 INFO: Ended application
+- 12:09:30.985 INFO: --------------------------------------------------------
+- 12:10:04.000 INFO: --------------------------------------------------------
+- 12:10:04.000 INFO: Started application
+- 12:10:04.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:10:04.000 INFO: Log level = INFO
+- 12:10:04.000 INFO: Starting Mongoose web server
+- 12:10:04.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:10:04.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:10:04.000 INFO: Index files: index.html,index.php
+- 12:10:04.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:10:04.000 INFO: CGI pattern: **.php$
+- 12:10:04.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:10:04.203 INFO: GET 200 /
+- 12:10:09.688 INFO: POST 200 /index.php
+- 12:13:16.250 INFO: Stopping Mongoose web server
+- 12:13:17.391 INFO: Ended application
+- 12:13:17.406 INFO: --------------------------------------------------------
+- 12:13:21.000 INFO: --------------------------------------------------------
+- 12:13:21.000 INFO: Started application
+- 12:13:21.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:13:21.000 INFO: Log level = INFO
+- 12:13:21.000 INFO: Starting Mongoose web server
+- 12:13:21.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:13:21.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:13:21.000 INFO: Index files: index.html,index.php
+- 12:13:21.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:13:21.000 INFO: CGI pattern: **.php$
+- 12:13:21.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:13:21.281 INFO: GET 200 /
+- 12:13:26.406 INFO: POST 200 /index.php
+- 12:13:29.219 INFO: Stopping Mongoose web server
+- 12:13:29.359 INFO: Ended application
+- 12:13:29.359 INFO: --------------------------------------------------------
+- 12:15:05.000 INFO: --------------------------------------------------------
+- 12:15:05.000 INFO: Started application
+- 12:15:05.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:15:05.000 INFO: Log level = INFO
+- 12:15:05.000 INFO: Starting Mongoose web server
+- 12:15:05.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:15:05.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:15:05.000 INFO: Index files: index.html,index.php
+- 12:15:05.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:15:05.000 INFO: CGI pattern: **.php$
+- 12:15:05.015 INFO: IE version from registry: 8.0.7600.16385
+- 12:15:05.172 INFO: GET 200 /
+- 12:15:11.375 INFO: POST 200 /index.php?act=upload
+- 12:15:22.219 INFO: Stopping Mongoose web server
+- 12:15:22.328 INFO: Ended application
+- 12:15:22.328 INFO: --------------------------------------------------------
+- 12:15:35.000 INFO: --------------------------------------------------------
+- 12:15:35.000 INFO: Started application
+- 12:15:35.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:15:35.000 INFO: Log level = INFO
+- 12:15:35.000 INFO: Starting Mongoose web server
+- 12:15:35.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:15:35.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:15:35.000 INFO: Index files: index.html,index.php
+- 12:15:35.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:15:35.000 INFO: CGI pattern: **.php$
+- 12:15:35.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:15:35.172 INFO: GET 200 /
+- 12:15:40.766 INFO: POST 200 /index.php?act=upload
+- 12:15:45.797 INFO: Stopping Mongoose web server
+- 12:15:45.906 INFO: Ended application
+- 12:15:45.906 INFO: --------------------------------------------------------
+- 12:15:52.000 INFO: --------------------------------------------------------
+- 12:15:52.000 INFO: Started application
+- 12:15:52.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:15:52.000 INFO: Log level = INFO
+- 12:15:52.000 INFO: Starting Mongoose web server
+- 12:15:52.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:15:52.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:15:52.000 INFO: Index files: index.html,index.php
+- 12:15:52.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:15:52.000 INFO: CGI pattern: **.php$
+- 12:15:52.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:15:52.188 INFO: GET 200 /
+- 12:15:56.547 INFO: POST 200 /index.php?act=upload
+- 12:16:06.938 INFO: Stopping Mongoose web server
+- 12:16:06.078 INFO: Ended application
+- 12:16:06.078 INFO: --------------------------------------------------------
+- 12:35:44.000 INFO: --------------------------------------------------------
+- 12:35:44.063 INFO: Started application
+- 12:35:44.063 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:35:44.063 INFO: Log level = INFO
+- 12:35:44.063 INFO: Starting Mongoose web server
+- 12:35:44.063 INFO: Web server url: http://127.0.0.1:54007/
+- 12:35:44.063 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:35:44.063 INFO: Index files: index.html,index.php
+- 12:35:44.063 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:35:44.063 INFO: CGI pattern: **.php$
+- 12:35:44.063 INFO: IE version from registry: 8.0.7600.16385
+- 12:35:45.703 INFO: GET 200 /
+- 12:35:51.625 INFO: Stopping Mongoose web server
+- 12:35:51.766 INFO: Ended application
+- 12:35:51.766 INFO: --------------------------------------------------------
+- 12:36:00.015 INFO: --------------------------------------------------------
+- 12:36:00.015 INFO: Started application
+- 12:36:00.015 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:36:00.015 INFO: Log level = INFO
+- 12:36:00.015 INFO: Starting Mongoose web server
+- 12:36:00.015 INFO: Web server url: http://127.0.0.1:54007/
+- 12:36:00.015 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:36:00.015 INFO: Index files: index.html,index.php
+- 12:36:00.015 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:36:00.015 INFO: CGI pattern: **.php$
+- 12:36:00.031 INFO: IE version from registry: 8.0.7600.16385
+- 12:36:00.203 INFO: GET 200 /
+- 12:36:02.234 INFO: GET 200 /index.php?act=open
+- 12:36:05.859 INFO: GET 200 /index.php?act=open
+- 12:36:06.906 INFO: GET 200 /index.php?act=open
+- 12:36:07.687 INFO: GET 200 /index.php?act=open
+- 12:36:08.312 INFO: GET 200 /index.php?act=open
+- 12:36:08.906 INFO: GET 200 /index.php?act=open
+- 12:36:09.562 INFO: GET 200 /index.php?act=open
+- 12:36:10.500 INFO: GET 200 /index.php?act=open
+- 12:36:10.281 INFO: GET 200 /index.php?act=open
+- 12:36:11.953 INFO: GET 200 /index.php?act=open
+- 12:36:12.609 INFO: GET 200 /index.php?act=open
+- 12:36:13.593 INFO: GET 200 /index.php?act=open
+- 12:36:14.468 INFO: GET 200 /index.php?act=open
+- 12:36:14.078 INFO: GET 200 /index.php?act=open
+- 12:36:40.093 INFO: Stopping Mongoose web server
+- 12:36:40.234 INFO: Ended application
+- 12:36:40.234 INFO: --------------------------------------------------------
+- 12:36:44.000 INFO: --------------------------------------------------------
+- 12:36:44.000 INFO: Started application
+- 12:36:44.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:36:44.000 INFO: Log level = INFO
+- 12:36:44.000 INFO: Starting Mongoose web server
+- 12:36:44.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:36:44.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:36:44.016 INFO: Index files: index.html,index.php
+- 12:36:44.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:36:44.016 INFO: CGI pattern: **.php$
+- 12:36:45.032 INFO: IE version from registry: 8.0.7600.16385
+- 12:36:45.313 INFO: GET 200 /
+- 12:36:46.016 INFO: GET 200 /example.xls
+- 12:36:51.969 INFO: OPTIONS 200 /
+- 12:37:00.891 INFO: OPTIONS 200 /
+- 12:37:03.485 INFO: PROPFIND 207 /
+- 12:37:06.219 INFO: PROPFIND 207 /
+- 12:37:08.813 INFO: PROPFIND 207 /example.xls
+- 12:37:11.391 INFO: GET 200 /example.xls
+- 12:37:11.407 INFO: HEAD 200 /example.xls
+- 12:37:22.750 INFO: Stopping Mongoose web server
+- 12:37:22.828 INFO: Ended application
+- 12:37:22.828 INFO: --------------------------------------------------------
+- 12:47:35.000 INFO: --------------------------------------------------------
+- 12:47:35.000 INFO: Started application
+- 12:47:35.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:47:35.000 INFO: Log level = INFO
+- 12:47:35.000 INFO: Starting Mongoose web server
+- 12:47:35.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:47:35.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:47:35.000 INFO: Index files: index.html,index.php
+- 12:47:35.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:47:35.000 INFO: CGI pattern: **.php$
+- 12:47:35.015 INFO: IE version from registry: 8.0.7600.16385
+- 12:47:38.656 INFO: GET 200 /
+- 12:48:15.297 INFO: Stopping Mongoose web server
+- 12:48:15.375 INFO: Ended application
+- 12:48:15.375 INFO: --------------------------------------------------------
+- 12:48:21.000 INFO: --------------------------------------------------------
+- 12:48:21.000 INFO: Started application
+- 12:48:21.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:48:21.000 INFO: Log level = INFO
+- 12:48:21.000 INFO: Starting Mongoose web server
+- 12:48:21.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:48:21.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:48:21.000 INFO: Index files: index.html,index.php
+- 12:48:21.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:48:21.000 INFO: CGI pattern: **.php$
+- 12:48:21.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:48:43.390 INFO: GET 200 /
+- 12:52:05.125 INFO: Stopping Mongoose web server
+- 12:52:05.328 INFO: Ended application
+- 12:52:05.328 INFO: --------------------------------------------------------
+- 12:52:20.016 INFO: --------------------------------------------------------
+- 12:52:20.016 INFO: Started application
+- 12:52:20.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:52:20.016 INFO: Log level = INFO
+- 12:52:20.016 INFO: Starting Mongoose web server
+- 12:52:20.016 INFO: Web server url: http://127.0.0.1:54007/
+- 12:52:20.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:52:20.016 INFO: Index files: index.html,index.php
+- 12:52:20.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:52:20.016 INFO: CGI pattern: **.php$
+- 12:52:20.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:52:39.235 INFO: GET 200 /
+- 12:53:24.688 INFO: Stopping Mongoose web server
+- 12:53:24.782 INFO: Ended application
+- 12:53:24.782 INFO: --------------------------------------------------------
+- 12:55:33.000 INFO: --------------------------------------------------------
+- 12:55:33.000 INFO: Started application
+- 12:55:33.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:55:33.000 INFO: Log level = INFO
+- 12:55:33.000 INFO: Starting Mongoose web server
+- 12:55:33.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:55:33.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:55:33.000 INFO: Index files: index.html,index.php
+- 12:55:33.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:55:33.000 INFO: CGI pattern: **.php$
+- 12:55:33.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:55:33.219 INFO: GET 200 /
+- 12:55:58.734 INFO: Stopping Mongoose web server
+- 12:55:58.938 INFO: Ended application
+- 12:55:58.938 INFO: --------------------------------------------------------
+- 13:11:56.000 INFO: --------------------------------------------------------
+- 13:11:56.000 INFO: Started application
+- 13:11:56.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:11:56.000 INFO: Log level = INFO
+- 13:11:56.000 INFO: Starting Mongoose web server
+- 13:11:56.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:11:56.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:11:56.000 INFO: Index files: index.html,index.php
+- 13:11:56.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:11:56.000 INFO: CGI pattern: **.php$
+- 13:11:56.015 INFO: IE version from registry: 8.0.7600.16385
+- 13:11:57.265 INFO: GET 200 /
+- 13:11:59.968 INFO: Stopping Mongoose web server
+- 13:11:59.125 INFO: Ended application
+- 13:11:59.125 INFO: --------------------------------------------------------
+- 13:12:21.016 INFO: --------------------------------------------------------
+- 13:12:21.016 INFO: Started application
+- 13:12:21.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:12:21.016 INFO: Log level = INFO
+- 13:12:21.016 INFO: Starting Mongoose web server
+- 13:12:21.016 INFO: Web server url: http://127.0.0.1:54007/
+- 13:12:21.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:12:21.016 INFO: Index files: index.html,index.php
+- 13:12:21.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:12:21.016 INFO: CGI pattern: **.php$
+- 13:12:21.032 INFO: IE version from registry: 8.0.7600.16385
+- 13:12:52.547 INFO: GET 200 /
+- 13:13:30.672 INFO: Stopping Mongoose web server
+- 13:13:30.813 INFO: Ended application
+- 13:13:30.813 INFO: --------------------------------------------------------
+- 13:33:24.000 INFO: --------------------------------------------------------
+- 13:33:24.000 INFO: Started application
+- 13:33:24.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:33:24.000 INFO: Log level = INFO
+- 13:33:24.000 INFO: Starting Mongoose web server
+- 13:33:24.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:33:24.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:33:24.000 INFO: Index files: index.html,index.php
+- 13:33:24.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:33:24.000 INFO: CGI pattern: **.php$
+- 13:33:24.015 INFO: IE version from registry: 8.0.7600.16385
+- 13:33:25.437 INFO: GET 200 /
+- 13:33:25.671 INFO: GET 200 /logo.png
+- 13:33:25.671 INFO: GET 200 /excel.png
+- 13:33:25.671 INFO: GET 200 /folder.png
+- 13:34:22.593 INFO: Stopping Mongoose web server
+- 13:34:22.781 INFO: Ended application
+- 13:34:22.781 INFO: --------------------------------------------------------
+- 13:49:29.000 INFO: --------------------------------------------------------
+- 13:49:29.000 INFO: Started application
+- 13:49:29.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:49:29.000 INFO: Log level = INFO
+- 13:49:29.000 INFO: Starting Mongoose web server
+- 13:49:29.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:49:29.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:49:29.000 INFO: Index files: index.html,index.php
+- 13:49:29.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:49:29.000 INFO: CGI pattern: **.php$
+- 13:49:29.000 INFO: IE version from registry: 8.0.7600.16385
+- 13:49:29.297 INFO: GET 200 /
+- 13:49:30.797 INFO: GET 304 /logo.png
+- 13:49:30.797 INFO: GET 304 /excel.png
+- 13:49:30.797 INFO: GET 304 /folder.png
+- 13:49:30.797 INFO: GET 200 /3.png
+- 13:49:30.797 INFO: GET 200 /1.png
+- 13:49:30.797 INFO: GET 200 /2.png
+- 13:49:38.734 INFO: Stopping Mongoose web server
+- 13:49:38.937 INFO: Ended application
+- 13:49:38.937 INFO: --------------------------------------------------------
+- 13:50:16.000 INFO: --------------------------------------------------------
+- 13:50:16.000 INFO: Started application
+- 13:50:16.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:50:16.000 INFO: Log level = INFO
+- 13:50:16.031 INFO: Starting Mongoose web server
+- 13:50:16.031 INFO: Web server url: http://127.0.0.1:54007/
+- 13:50:16.031 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:50:16.031 INFO: Index files: index.html,index.php
+- 13:50:16.031 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:50:16.031 INFO: CGI pattern: **.php$
+- 13:50:16.031 INFO: IE version from registry: 8.0.7600.16385
+- 13:50:16.219 INFO: GET 200 /
+- 13:50:17.625 INFO: GET 304 /logo.png
+- 13:50:17.625 INFO: GET 304 /excel.png
+- 13:50:17.641 INFO: GET 304 /1.png
+- 13:50:17.641 INFO: GET 304 /folder.png
+- 13:50:17.641 INFO: GET 304 /2.png
+- 13:50:17.641 INFO: GET 304 /3.png
+- 13:50:32.469 INFO: Stopping Mongoose web server
+- 13:50:33.688 INFO: Ended application
+- 13:50:33.688 INFO: --------------------------------------------------------
+- 15:49:46.016 INFO: --------------------------------------------------------
+- 15:49:46.016 INFO: Started application
+- 15:49:46.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 15:49:46.016 INFO: Log level = INFO
+- 15:49:46.016 INFO: Starting Mongoose web server
+- 15:49:46.016 INFO: Web server url: http://127.0.0.1:54007/
+- 15:49:46.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 15:49:46.016 INFO: Index files: index.html,index.php
+- 15:49:46.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 15:49:46.016 INFO: CGI pattern: **.php$
+- 15:49:46.016 INFO: IE version from registry: 8.0.7600.16385
+- 15:49:46.281 INFO: GET 200 /
+- 15:49:46.719 INFO: GET 304 /excel.png
+- 15:49:46.719 INFO: GET 304 /logo.png
+- 15:49:46.719 INFO: GET 304 /folder.png
+- 15:49:46.719 INFO: GET 304 /1.png
+- 15:49:46.719 INFO: GET 304 /3.png
+- 15:49:46.719 INFO: GET 304 /2.png
+- 15:50:12.735 INFO: Stopping Mongoose web server
+- 15:50:12.781 INFO: Ended application
+- 15:50:12.781 INFO: --------------------------------------------------------
+- 15:54:48.015 INFO: --------------------------------------------------------
+- 15:54:48.015 INFO: Started application
+- 15:54:48.015 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 15:54:48.015 INFO: Log level = INFO
+- 15:54:48.015 INFO: Starting Mongoose web server
+- 15:54:48.015 INFO: Web server url: http://127.0.0.1:54007/
+- 15:54:48.015 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 15:54:48.015 INFO: Index files: index.html,index.php
+- 15:54:48.015 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 15:54:48.015 INFO: CGI pattern: **.php$
+- 15:54:48.015 INFO: IE version from registry: 8.0.7600.16385
+- 15:55:05.250 INFO: GET 200 /
+- 15:55:05.265 INFO: GET 304 /logo.png
+- 15:55:05.265 INFO: GET 304 /excel.png
+- 15:55:05.265 INFO: GET 304 /folder.png
+- 15:55:05.265 INFO: GET 304 /1.png
+- 15:55:05.265 INFO: GET 304 /2.png
+- 15:55:05.265 INFO: GET 304 /3.png
+- 15:55:20.344 INFO: Stopping Mongoose web server
+- 15:55:21.594 INFO: Ended application
+- 15:55:21.594 INFO: --------------------------------------------------------
+- 15:56:52.000 INFO: --------------------------------------------------------
+- 15:56:52.000 INFO: Started application
+- 15:56:52.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 15:56:52.000 INFO: Log level = INFO
+- 15:56:52.000 INFO: Starting Mongoose web server
+- 15:56:52.000 INFO: Web server url: http://127.0.0.1:54007/
+- 15:56:52.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 15:56:52.000 INFO: Index files: index.html,index.php
+- 15:56:52.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 15:56:52.000 INFO: CGI pattern: **.php$
+- 15:56:52.016 INFO: IE version from registry: 8.0.7600.16385
+- 15:56:52.375 INFO: GET 200 /
+- 15:57:15.813 INFO: Stopping Mongoose web server
+- 15:57:15.969 INFO: Ended application
+- 15:57:15.969 INFO: --------------------------------------------------------
+- 15:57:18.016 INFO: --------------------------------------------------------
+- 15:57:18.016 INFO: Started application
+- 15:57:18.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 15:57:18.016 INFO: Log level = INFO
+- 15:57:18.016 INFO: Starting Mongoose web server
+- 15:57:18.016 INFO: Web server url: http://127.0.0.1:54007/
+- 15:57:18.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 15:57:18.016 INFO: Index files: index.html,index.php
+- 15:57:18.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 15:57:18.016 INFO: CGI pattern: **.php$
+- 15:57:18.032 INFO: IE version from registry: 8.0.7600.16385
+- 15:57:19.266 INFO: GET 200 /
+- 15:57:19.750 INFO: GET 304 /logo.png
+- 15:57:19.750 INFO: GET 304 /excel.png
+- 15:57:19.750 INFO: GET 304 /folder.png
+- 15:57:19.750 INFO: GET 304 /1.png
+- 15:57:19.766 INFO: GET 304 /2.png
+- 15:57:19.766 INFO: GET 304 /3.png
+- 15:57:46.985 INFO: POST 200 /index.php?act=download
+- 15:57:46.000 INFO: GET 304 /excel.png
+- 15:57:46.000 INFO: GET 304 /logo.png
+- 15:57:46.016 INFO: GET 304 /folder.png
+- 15:57:46.016 INFO: GET 304 /1.png
+- 15:57:46.016 INFO: GET 304 /2.png
+- 15:57:46.016 INFO: GET 304 /3.png
+- 15:58:31.719 INFO: Stopping Mongoose web server
+- 15:58:31.938 INFO: Ended application
+- 15:58:31.938 INFO: --------------------------------------------------------
+- 16:00:44.016 INFO: --------------------------------------------------------
+- 16:00:44.016 INFO: Started application
+- 16:00:44.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:00:44.016 INFO: Log level = INFO
+- 16:00:44.016 INFO: Starting Mongoose web server
+- 16:00:44.016 INFO: Web server url: http://127.0.0.1:54007/
+- 16:00:44.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:00:44.016 INFO: Index files: index.html,index.php
+- 16:00:44.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:00:44.016 INFO: CGI pattern: **.php$
+- 16:00:45.125 INFO: IE version from registry: 8.0.7600.16385
+- 16:00:45.562 INFO: GET 200 /
+- 16:00:45.016 INFO: GET 304 /logo.png
+- 16:00:45.016 INFO: GET 304 /excel.png
+- 16:00:45.016 INFO: GET 304 /folder.png
+- 16:00:45.031 INFO: GET 304 /1.png
+- 16:00:45.031 INFO: GET 304 /2.png
+- 16:00:45.031 INFO: GET 304 /3.png
+- 16:01:08.703 INFO: POST 200 /index.php?act=download
+- 16:01:08.703 INFO: GET 304 /2.png
+- 16:01:08.703 INFO: GET 304 /logo.png
+- 16:01:08.719 INFO: GET 304 /1.png
+- 16:01:08.719 INFO: GET 304 /folder.png
+- 16:01:08.719 INFO: GET 304 /3.png
+- 16:01:08.719 INFO: GET 304 /excel.png
+- 16:02:59.844 INFO: Stopping Mongoose web server
+- 16:02:59.031 INFO: Ended application
+- 16:02:59.031 INFO: --------------------------------------------------------
+- 16:03:06.000 INFO: --------------------------------------------------------
+- 16:03:06.000 INFO: Started application
+- 16:03:06.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:03:06.000 INFO: Log level = INFO
+- 16:03:06.000 INFO: Starting Mongoose web server
+- 16:03:06.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:03:06.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:03:06.000 INFO: Index files: index.html,index.php
+- 16:03:06.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:03:06.000 INFO: CGI pattern: **.php$
+- 16:03:06.000 INFO: IE version from registry: 8.0.7600.16385
+- 16:03:07.234 INFO: GET 200 /
+- 16:03:07.719 INFO: GET 304 /excel.png
+- 16:03:07.719 INFO: GET 304 /logo.png
+- 16:03:07.719 INFO: GET 304 /folder.png
+- 16:03:07.719 INFO: GET 304 /1.png
+- 16:03:07.719 INFO: GET 304 /3.png
+- 16:03:07.719 INFO: GET 304 /2.png
+- 16:03:24.656 INFO: GET 304 /logo.png
+- 16:03:24.656 INFO: GET 304 /folder.png
+- 16:03:24.656 INFO: GET 304 /1.png
+- 16:03:24.656 INFO: GET 304 /2.png
+- 16:03:24.656 INFO: GET 304 /3.png
+- 16:03:24.656 INFO: GET 304 /excel.png
+- 16:03:24.687 INFO: POST 200 /index.php?act=download
+- 16:16:18.344 INFO: Stopping Mongoose web server
+- 16:16:18.500 INFO: Ended application
+- 16:16:18.500 INFO: --------------------------------------------------------
+- 16:16:33.000 INFO: --------------------------------------------------------
+- 16:16:33.000 INFO: Started application
+- 16:16:33.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:16:33.000 INFO: Log level = INFO
+- 16:16:33.000 INFO: Starting Mongoose web server
+- 16:16:33.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:16:33.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:16:33.000 INFO: Index files: index.html,index.php
+- 16:16:33.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:16:33.000 INFO: CGI pattern: **.php$
+- 16:16:33.000 INFO: IE version from registry: 8.0.7600.16385
+- 16:16:33.218 INFO: GET 200 /
+- 16:16:33.703 INFO: GET 304 /logo.png
+- 16:16:33.703 INFO: GET 304 /excel.png
+- 16:16:33.703 INFO: GET 304 /folder.png
+- 16:16:33.703 INFO: GET 304 /3.png
+- 16:16:33.703 INFO: GET 200 /ajax-loader.gif
+- 16:16:33.718 INFO: GET 304 /2.png
+- 16:16:33.718 INFO: GET 304 /1.png
+- 16:16:57.484 INFO: Stopping Mongoose web server
+- 16:16:57.546 INFO: Ended application
+- 16:16:57.546 INFO: --------------------------------------------------------
+- 16:20:50.000 INFO: --------------------------------------------------------
+- 16:20:50.000 INFO: Started application
+- 16:20:50.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:20:50.000 INFO: Log level = INFO
+- 16:20:50.000 INFO: Starting Mongoose web server
+- 16:20:50.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:20:50.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:20:50.000 INFO: Index files: index.html,index.php
+- 16:20:50.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:20:50.000 INFO: CGI pattern: **.php$
+- 16:20:50.032 INFO: IE version from registry: 8.0.7600.16385
+- 16:20:50.282 INFO: GET 200 /
+- 16:20:51.719 INFO: GET 304 /logo.png
+- 16:20:51.719 INFO: GET 304 /excel.png
+- 16:20:51.719 INFO: GET 304 /2.png
+- 16:20:51.719 INFO: GET 304 /1.png
+- 16:20:51.719 INFO: GET 304 /3.png
+- 16:20:51.719 INFO: GET 304 /folder.png
+- 16:20:56.375 INFO: GET 304 /folder.png
+- 16:20:56.375 INFO: GET 304 /logo.png
+- 16:20:56.375 INFO: GET 304 /excel.png
+- 16:20:56.375 INFO: GET 304 /1.png
+- 16:20:56.375 INFO: GET 304 /2.png
+- 16:20:56.375 INFO: GET 304 /3.png
+- 16:20:56.391 INFO: POST 200 /index.php?act=download
+- 16:21:08.985 INFO: Stopping Mongoose web server
+- 16:21:08.204 INFO: Ended application
+- 16:21:08.204 INFO: --------------------------------------------------------
+- 16:21:37.000 INFO: --------------------------------------------------------
+- 16:21:37.000 INFO: Started application
+- 16:21:37.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:21:37.000 INFO: Log level = INFO
+- 16:21:37.000 INFO: Starting Mongoose web server
+- 16:21:37.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:21:37.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:21:37.000 INFO: Index files: index.html,index.php
+- 16:21:37.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:21:37.000 INFO: CGI pattern: **.php$
+- 16:21:37.000 INFO: IE version from registry: 8.0.7600.16385
+- 16:21:37.266 INFO: GET 200 /
+- 16:21:37.719 INFO: GET 304 /logo.png
+- 16:21:37.719 INFO: GET 304 /excel.png
+- 16:21:37.719 INFO: GET 304 /folder.png
+- 16:21:37.719 INFO: GET 304 /1.png
+- 16:21:37.719 INFO: GET 304 /2.png
+- 16:21:37.719 INFO: GET 304 /3.png
+- 16:21:43.625 INFO: GET 304 /excel.png
+- 16:21:43.625 INFO: GET 304 /1.png
+- 16:21:43.641 INFO: GET 304 /logo.png
+- 16:21:43.641 INFO: GET 304 /3.png
+- 16:21:43.641 INFO: GET 304 /2.png
+- 16:21:43.657 INFO: GET 304 /folder.png
+- 16:21:43.657 INFO: POST 200 /index.php?act=download
+- 16:24:57.235 INFO: Stopping Mongoose web server
+- 16:24:57.250 INFO: Ended application
+- 16:24:57.250 INFO: --------------------------------------------------------
+- 16:25:01.000 INFO: --------------------------------------------------------
+- 16:25:01.000 INFO: Started application
+- 16:25:01.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:25:01.000 INFO: Log level = INFO
+- 16:25:01.000 INFO: Starting Mongoose web server
+- 16:25:01.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:25:01.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:25:01.000 INFO: Index files: index.html,index.php
+- 16:25:01.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:25:01.000 INFO: CGI pattern: **.php$
+- 16:25:01.016 INFO: IE version from registry: 8.0.7600.16385
+- 16:25:01.266 INFO: GET 200 /
+- 16:25:01.797 INFO: GET 304 /logo.png
+- 16:25:01.797 INFO: GET 304 /excel.png
+- 16:25:01.797 INFO: GET 304 /3.png
+- 16:25:01.812 INFO: GET 304 /folder.png
+- 16:25:01.812 INFO: GET 304 /1.png
+- 16:25:01.812 INFO: GET 304 /2.png
+- 16:25:09.172 INFO: GET 304 /excel.png
+- 16:25:09.187 INFO: GET 304 /2.png
+- 16:25:09.187 INFO: GET 304 /1.png
+- 16:25:09.203 INFO: GET 304 /folder.png
+- 16:25:09.203 INFO: GET 304 /3.png
+- 16:25:09.203 INFO: GET 304 /logo.png
+- 16:25:09.219 INFO: POST 200 /index.php?act=download
+- 16:30:01.687 INFO: Stopping Mongoose web server
+- 16:30:01.797 INFO: Ended application
+- 16:30:01.797 INFO: --------------------------------------------------------
+- 16:30:05.000 INFO: --------------------------------------------------------
+- 16:30:05.000 INFO: Started application
+- 16:30:05.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:30:05.000 INFO: Log level = INFO
+- 16:30:05.000 INFO: Starting Mongoose web server
+- 16:30:05.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:30:05.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:30:05.000 INFO: Index files: index.html,index.php
+- 16:30:05.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:30:05.000 INFO: CGI pattern: **.php$
+- 16:30:05.000 INFO: IE version from registry: 8.0.7600.16385
+- 16:30:05.281 INFO: GET 200 /
+- 16:30:06.828 INFO: GET 304 /logo.png
+- 16:30:06.828 INFO: GET 304 /excel.png
+- 16:30:06.844 INFO: GET 304 /1.png
+- 16:30:06.844 INFO: GET 304 /folder.png
+- 16:30:06.844 INFO: GET 304 /3.png
+- 16:30:06.844 INFO: GET 304 /2.png
+- 16:30:08.375 INFO: GET 304 /logo.png
+- 16:30:08.375 INFO: GET 304 /excel.png
+- 16:30:08.375 INFO: GET 304 /folder.png
+- 16:30:08.375 INFO: GET 304 /1.png
+- 16:30:08.375 INFO: GET 304 /2.png
+- 16:30:08.375 INFO: GET 304 /3.png
+- 16:30:08.390 INFO: POST 200 /index.php?act=download
+- 16:30:21.656 INFO: Stopping Mongoose web server
+- 16:30:21.703 INFO: Ended application
+- 16:30:21.703 INFO: --------------------------------------------------------
+- 16:30:40.016 INFO: --------------------------------------------------------
+- 16:30:40.016 INFO: Started application
+- 16:30:40.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:30:40.016 INFO: Log level = INFO
+- 16:30:40.016 INFO: Starting Mongoose web server
+- 16:30:40.016 INFO: Web server url: http://127.0.0.1:54007/
+- 16:30:40.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:30:40.016 INFO: Index files: index.html,index.php
+- 16:30:40.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:30:40.016 INFO: CGI pattern: **.php$
+- 16:30:40.016 INFO: IE version from registry: 8.0.7600.16385
+- 16:30:41.266 INFO: GET 200 /
+- 16:30:41.782 INFO: GET 304 /logo.png
+- 16:30:41.782 INFO: GET 304 /excel.png
+- 16:30:41.782 INFO: GET 304 /folder.png
+- 16:30:41.782 INFO: GET 304 /1.png
+- 16:30:41.782 INFO: GET 304 /2.png
+- 16:30:41.782 INFO: GET 304 /3.png
+- 16:31:04.172 INFO: GET 304 /logo.png
+- 16:31:04.172 INFO: GET 304 /excel.png
+- 16:31:04.172 INFO: GET 304 /folder.png
+- 16:31:04.172 INFO: GET 304 /ajax-loader.gif
+- 16:31:04.172 INFO: GET 304 /1.png
+- 16:31:04.172 INFO: GET 304 /2.png
+- 16:31:04.172 INFO: GET 304 /3.png
+- 16:31:04.203 INFO: POST 200 /index.php?act=download
+- 16:32:00.016 INFO: Stopping Mongoose web server
+- 16:32:00.250 INFO: Ended application
+- 16:32:00.250 INFO: --------------------------------------------------------
+- 16:32:09.000 INFO: --------------------------------------------------------
+- 16:32:09.000 INFO: Started application
+- 16:32:09.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:32:09.000 INFO: Log level = INFO
+- 16:32:09.000 INFO: Starting Mongoose web server
+- 16:32:09.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:32:09.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:32:09.000 INFO: Index files: index.html,index.php
+- 16:32:09.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:32:09.000 INFO: CGI pattern: **.php$
+- 16:32:09.000 INFO: IE version from registry: 8.0.7600.16385
+- 16:32:09.328 INFO: GET 200 /
+- 16:32:10.984 INFO: GET 304 /logo.png
+- 16:32:10.984 INFO: GET 304 /excel.png
+- 16:32:10.984 INFO: GET 304 /3.png
+- 16:32:10.984 INFO: GET 304 /folder.png
+- 16:32:10.984 INFO: GET 304 /2.png
+- 16:32:10.984 INFO: GET 304 /1.png
+- 16:39:56.688 INFO: POST 200 /index.php?act=download
+- 16:40:00.875 INFO: Stopping Mongoose web server
+- 16:40:00.063 INFO: Ended application
+- 16:40:00.063 INFO: --------------------------------------------------------
+- 16:40:13.000 INFO: --------------------------------------------------------
+- 16:40:13.000 INFO: Started application
+- 16:40:13.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:40:13.000 INFO: Log level = INFO
+- 16:40:13.000 INFO: Starting Mongoose web server
+- 16:40:13.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:40:13.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:40:13.000 INFO: Index files: index.html,index.php
+- 16:40:13.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:40:13.000 INFO: CGI pattern: **.php$
+- 16:40:14.016 INFO: IE version from registry: 8.0.7600.16385
+- 16:40:14.266 INFO: GET 200 /
+- 16:40:14.782 INFO: GET 304 /logo.png
+- 16:40:14.782 INFO: GET 304 /excel.png
+- 16:40:14.797 INFO: GET 304 /2.png
+- 16:40:14.797 INFO: GET 304 /1.png
+- 16:40:14.797 INFO: GET 304 /folder.png
+- 16:40:14.797 INFO: GET 304 /3.png
+- 16:40:21.782 INFO: GET 304 /logo.png
+- 16:40:21.782 INFO: GET 304 /excel.png
+- 16:40:21.797 INFO: GET 304 /folder.png
+- 16:40:21.797 INFO: GET 304 /1.png
+- 16:40:21.797 INFO: GET 304 /2.png
+- 16:40:21.797 INFO: GET 304 /3.png
+- 16:40:21.797 INFO: POST 200 /index.php?act=download
+- 16:49:53.750 INFO: Stopping Mongoose web server
+- 16:49:53.938 INFO: Ended application
+- 16:49:53.938 INFO: --------------------------------------------------------
+- 16:49:57.000 INFO: --------------------------------------------------------
+- 16:49:57.000 INFO: Started application
+- 16:49:57.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:49:57.000 INFO: Log level = INFO
+- 16:49:57.000 INFO: Starting Mongoose web server
+- 16:49:57.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:49:57.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:49:57.000 INFO: Index files: index.html,index.php
+- 16:49:57.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:49:57.000 INFO: CGI pattern: **.php$
+- 16:49:57.016 INFO: IE version from registry: 8.0.7600.16385
+- 16:49:58.360 INFO: GET 200 /
+- 16:49:58.766 INFO: GET 304 /logo.png
+- 16:49:58.766 INFO: GET 304 /excel.png
+- 16:49:58.766 INFO: GET 304 /1.png
+- 16:49:58.766 INFO: GET 304 /folder.png
+- 16:49:58.766 INFO: GET 304 /2.png
+- 16:49:58.781 INFO: GET 304 /3.png
+- 16:50:05.469 INFO: POST 200 /index.php?act=download
+- 16:50:05.469 INFO: GET 304 /logo.png
+- 16:50:05.469 INFO: GET 304 /excel.png
+- 16:50:05.469 INFO: GET 304 /3.png
+- 16:50:05.469 INFO: GET 304 /2.png
+- 16:50:05.469 INFO: GET 304 /folder.png
+- 16:50:05.469 INFO: GET 304 /1.png
+- 16:51:22.922 INFO: Stopping Mongoose web server
+- 16:51:22.094 INFO: Ended application
+- 16:51:22.094 INFO: --------------------------------------------------------
+- 16:51:25.000 INFO: --------------------------------------------------------
+- 16:51:25.000 INFO: Started application
+- 16:51:25.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:51:25.000 INFO: Log level = INFO
+- 16:51:25.000 INFO: Starting Mongoose web server
+- 16:51:25.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:51:25.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:51:25.000 INFO: Index files: index.html,index.php
+- 16:51:25.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:51:25.000 INFO: CGI pattern: **.php$
+- 16:51:25.015 INFO: IE version from registry: 8.0.7600.16385
+- 16:51:25.203 INFO: GET 200 /
+- 16:51:26.625 INFO: GET 304 /logo.png
+- 16:51:26.625 INFO: GET 304 /excel.png
+- 16:51:26.625 INFO: GET 304 /2.png
+- 16:51:26.625 INFO: GET 304 /folder.png
+- 16:51:26.640 INFO: GET 304 /3.png
+- 16:51:26.640 INFO: GET 304 /1.png
+- 16:51:31.421 INFO: POST 200 /index.php?act=download
+- 16:51:31.421 INFO: GET 304 /excel.png
+- 16:51:31.421 INFO: GET 304 /logo.png
+- 16:51:31.421 INFO: GET 304 /2.png
+- 16:51:31.421 INFO: GET 304 /3.png
+- 16:51:31.437 INFO: GET 304 /1.png
+- 16:51:31.437 INFO: GET 304 /folder.png
+- 16:51:37.328 INFO: Stopping Mongoose web server
+- 16:51:38.375 INFO: Ended application
+- 16:51:38.375 INFO: --------------------------------------------------------
+- 16:52:34.000 INFO: --------------------------------------------------------
+- 16:52:34.000 INFO: Started application
+- 16:52:34.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:52:34.000 INFO: Log level = INFO
+- 16:52:34.000 INFO: Starting Mongoose web server
+- 16:52:34.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:52:34.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:52:34.000 INFO: Index files: index.html,index.php
+- 16:52:34.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:52:34.000 INFO: CGI pattern: **.php$
+- 16:52:34.000 INFO: IE version from registry: 8.0.7600.16385
+- 16:52:34.250 INFO: GET 200 /
+- 16:52:35.688 INFO: GET 304 /logo.png
+- 16:52:35.688 INFO: GET 304 /excel.png
+- 16:52:35.688 INFO: GET 304 /folder.png
+- 16:52:35.703 INFO: GET 304 /1.png
+- 16:52:35.703 INFO: GET 304 /2.png
+- 16:52:35.703 INFO: GET 304 /3.png
+- 16:52:48.984 INFO: GET 304 /logo.png
+- 16:52:48.984 INFO: GET 304 /excel.png
+- 16:52:48.984 INFO: GET 304 /folder.png
+- 16:52:48.000 INFO: GET 304 /ajax-loader.gif
+- 16:52:48.000 INFO: GET 304 /1.png
+- 16:52:48.000 INFO: GET 304 /3.png
+- 16:52:48.000 INFO: GET 304 /2.png
+- 16:52:48.016 INFO: POST 200 /index.php?act=download
+- 16:52:52.109 INFO: Stopping Mongoose web server
+- 16:52:52.281 INFO: Ended application
+- 16:52:52.281 INFO: --------------------------------------------------------
+- 16:53:08.000 INFO: --------------------------------------------------------
+- 16:53:08.000 INFO: Started application
+- 16:53:08.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:53:08.000 INFO: Log level = INFO
+- 16:53:08.000 INFO: Starting Mongoose web server
+- 16:53:08.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:53:08.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:53:08.000 INFO: Index files: index.html,index.php
+- 16:53:08.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:53:08.000 INFO: CGI pattern: **.php$
+- 16:53:08.000 INFO: IE version from registry: 8.0.7600.16385
+- 16:53:08.218 INFO: GET 200 /
+- 16:53:08.640 INFO: GET 304 /logo.png
+- 16:53:08.640 INFO: GET 304 /excel.png
+- 16:53:08.656 INFO: GET 304 /1.png
+- 16:53:08.656 INFO: GET 304 /3.png
+- 16:53:08.656 INFO: GET 304 /folder.png
+- 16:53:08.656 INFO: GET 304 /2.png
+- 16:53:24.828 INFO: GET 304 /excel.png
+- 16:53:24.828 INFO: GET 304 /folder.png
+- 16:53:24.828 INFO: GET 304 /ajax-loader.gif
+- 16:53:24.828 INFO: GET 304 /1.png
+- 16:53:24.828 INFO: GET 304 /2.png
+- 16:53:24.828 INFO: POST 200 /index.php?act=download
+- 16:53:24.843 INFO: GET 304 /3.png
+- 16:53:24.843 INFO: GET 304 /logo.png
+- 16:53:29.093 INFO: Stopping Mongoose web server
+- 16:53:29.156 INFO: Ended application
+- 16:53:29.156 INFO: --------------------------------------------------------
+- 16:54:40.000 INFO: --------------------------------------------------------
+- 16:54:40.000 INFO: Started application
+- 16:54:40.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 16:54:40.000 INFO: Log level = INFO
+- 16:54:40.000 INFO: Starting Mongoose web server
+- 16:54:40.000 INFO: Web server url: http://127.0.0.1:54007/
+- 16:54:40.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 16:54:40.000 INFO: Index files: index.html,index.php
+- 16:54:40.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 16:54:40.000 INFO: CGI pattern: **.php$
+- 16:54:41.016 INFO: IE version from registry: 8.0.7600.16385
+- 16:54:41.219 INFO: GET 200 /
+- 16:54:41.641 INFO: GET 304 /logo.png
+- 16:54:41.641 INFO: GET 304 /excel.png
+- 16:54:41.641 INFO: GET 304 /folder.png
+- 16:54:41.641 INFO: GET 304 /2.png
+- 16:54:41.641 INFO: GET 304 /1.png
+- 16:54:41.641 INFO: GET 304 /3.png
+- 16:54:42.813 INFO: Stopping Mongoose web server
+- 16:54:42.875 INFO: Ended application
+- 16:54:42.875 INFO: --------------------------------------------------------
+- 09:34:48.000 INFO: --------------------------------------------------------
+- 09:34:48.016 INFO: Started application
+- 09:34:48.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:34:48.016 INFO: Log level = INFO
+- 09:34:48.016 INFO: Starting Mongoose web server
+- 09:34:48.016 INFO: Web server url: http://127.0.0.1:54007/
+- 09:34:48.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:34:48.016 INFO: Index files: index.html,index.php
+- 09:34:48.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:34:48.016 INFO: CGI pattern: **.php$
+- 09:34:48.016 INFO: IE version from registry: 8.0.7600.16385
+- 09:34:49.141 INFO: GET 200 /
+- 09:34:49.516 INFO: GET 304 /logo.png
+- 09:34:49.531 INFO: GET 304 /excel.png
+- 09:34:49.531 INFO: GET 304 /folder.png
+- 09:34:49.531 INFO: GET 304 /2.png
+- 09:34:49.531 INFO: GET 304 /1.png
+- 09:34:49.531 INFO: GET 304 /3.png
+- 09:36:08.344 INFO: GET 304 /logo.png
+- 09:36:08.344 INFO: GET 304 /excel.png
+- 09:36:08.344 INFO: GET 304 /1.png
+- 09:36:08.344 INFO: GET 304 /folder.png
+- 09:36:08.359 INFO: GET 304 /2.png
+- 09:36:08.359 INFO: GET 304 /3.png
+- 09:36:08.359 INFO: POST 200 /index.php?act=download
+- 09:37:04.484 INFO: GET 304 /logo.png
+- 09:37:04.484 INFO: GET 304 /excel.png
+- 09:37:04.500 INFO: GET 304 /folder.png
+- 09:37:04.500 INFO: GET 304 /1.png
+- 09:37:04.500 INFO: GET 304 /2.png
+- 09:37:04.500 INFO: GET 304 /3.png
+- 09:37:04.500 INFO: POST 200 /index.php?act=download
+- 09:37:07.906 INFO: Stopping Mongoose web server
+- 09:37:07.109 INFO: Ended application
+- 09:37:07.109 INFO: --------------------------------------------------------
+- 09:37:11.000 INFO: --------------------------------------------------------
+- 09:37:11.000 INFO: Started application
+- 09:37:11.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:37:11.000 INFO: Log level = INFO
+- 09:37:11.000 INFO: Starting Mongoose web server
+- 09:37:11.000 INFO: Web server url: http://127.0.0.1:54007/
+- 09:37:11.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:37:11.000 INFO: Index files: index.html,index.php
+- 09:37:11.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:37:11.000 INFO: CGI pattern: **.php$
+- 09:37:11.000 INFO: IE version from registry: 8.0.7600.16385
+- 09:37:12.219 INFO: GET 200 /
+- 09:37:12.610 INFO: GET 304 /logo.png
+- 09:37:12.610 INFO: GET 304 /excel.png
+- 09:37:12.610 INFO: GET 304 /folder.png
+- 09:37:12.610 INFO: GET 304 /1.png
+- 09:37:12.610 INFO: GET 304 /2.png
+- 09:37:12.610 INFO: GET 304 /3.png
+- 09:37:14.157 INFO: GET 304 /logo.png
+- 09:37:14.157 INFO: GET 304 /excel.png
+- 09:37:14.157 INFO: GET 304 /folder.png
+- 09:37:14.157 INFO: GET 304 /1.png
+- 09:37:14.157 INFO: GET 304 /2.png
+- 09:37:14.157 INFO: GET 304 /3.png
+- 09:37:14.157 INFO: POST 200 /index.php?act=download
+- 09:37:24.578 INFO: Stopping Mongoose web server
+- 09:37:24.766 INFO: Ended application
+- 09:37:24.766 INFO: --------------------------------------------------------
+- 09:38:49.015 INFO: --------------------------------------------------------
+- 09:38:49.015 INFO: Started application
+- 09:38:49.015 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:38:49.015 INFO: Log level = INFO
+- 09:38:49.015 INFO: Starting Mongoose web server
+- 09:38:49.015 INFO: Web server url: http://127.0.0.1:54007/
+- 09:38:49.015 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:38:49.015 INFO: Index files: index.html,index.php
+- 09:38:49.015 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:38:49.015 INFO: CGI pattern: **.php$
+- 09:38:49.015 INFO: IE version from registry: 8.0.7600.16385
+- 09:38:49.218 INFO: GET 200 /
+- 09:38:50.625 INFO: GET 304 /logo.png
+- 09:38:50.625 INFO: GET 304 /excel.png
+- 09:38:50.640 INFO: GET 304 /1.png
+- 09:38:50.640 INFO: GET 304 /3.png
+- 09:38:50.640 INFO: GET 304 /2.png
+- 09:38:50.640 INFO: GET 304 /folder.png
+- 09:38:51.531 INFO: GET 304 /logo.png
+- 09:38:51.531 INFO: GET 304 /excel.png
+- 09:38:51.531 INFO: GET 304 /folder.png
+- 09:38:51.531 INFO: GET 304 /1.png
+- 09:38:51.531 INFO: GET 304 /2.png
+- 09:38:51.531 INFO: GET 304 /3.png
+- 09:38:51.562 INFO: POST 200 /index.php?act=download
+- 09:39:16.578 INFO: Stopping Mongoose web server
+- 09:39:17.765 INFO: Ended application
+- 09:39:17.765 INFO: --------------------------------------------------------
+- 09:39:25.000 INFO: --------------------------------------------------------
+- 09:39:25.000 INFO: Started application
+- 09:39:25.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:39:25.000 INFO: Log level = INFO
+- 09:39:25.000 INFO: Starting Mongoose web server
+- 09:39:25.000 INFO: Web server url: http://127.0.0.1:54007/
+- 09:39:25.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:39:25.000 INFO: Index files: index.html,index.php
+- 09:39:25.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:39:25.000 INFO: CGI pattern: **.php$
+- 09:39:25.015 INFO: IE version from registry: 8.0.7600.16385
+- 09:39:26.234 INFO: GET 200 /
+- 09:39:26.609 INFO: GET 304 /logo.png
+- 09:39:26.609 INFO: GET 304 /excel.png
+- 09:39:26.625 INFO: GET 304 /3.png
+- 09:39:26.625 INFO: GET 304 /1.png
+- 09:39:26.625 INFO: GET 304 /2.png
+- 09:39:26.625 INFO: GET 304 /folder.png
+- 09:39:58.578 INFO: POST 200 /index.php?act=download
+- 09:39:58.578 INFO: GET 304 /logo.png
+- 09:39:58.578 INFO: GET 304 /folder.png
+- 09:39:58.578 INFO: GET 304 /excel.png
+- 09:40:15.562 INFO: Stopping Mongoose web server
+- 09:40:15.593 INFO: Ended application
+- 09:40:15.593 INFO: --------------------------------------------------------
+- 09:41:44.000 INFO: --------------------------------------------------------
+- 09:41:44.000 INFO: Started application
+- 09:41:44.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:41:44.000 INFO: Log level = INFO
+- 09:41:44.000 INFO: Starting Mongoose web server
+- 09:41:44.000 INFO: Web server url: http://127.0.0.1:54007/
+- 09:41:44.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:41:44.000 INFO: Index files: index.html,index.php
+- 09:41:44.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:41:44.000 INFO: CGI pattern: **.php$
+- 09:41:44.000 INFO: IE version from registry: 8.0.7600.16385
+- 09:41:44.188 INFO: GET 200 /
+- 09:41:45.579 INFO: GET 304 /logo.png
+- 09:41:45.579 INFO: GET 304 /excel.png
+- 09:41:45.579 INFO: GET 304 /1.png
+- 09:41:45.579 INFO: GET 304 /folder.png
+- 09:41:45.579 INFO: GET 304 /2.png
+- 09:41:45.579 INFO: GET 304 /3.png
+- 09:42:20.625 INFO: POST 200 /index.php?act=download
+- 09:42:20.625 INFO: GET 304 /logo.png
+- 09:42:20.625 INFO: GET 304 /excel.png
+- 09:42:20.625 INFO: GET 304 /folder.png
+- 09:43:40.407 INFO: Stopping Mongoose web server
+- 09:43:40.516 INFO: Ended application
+- 09:43:40.516 INFO: --------------------------------------------------------
+- 09:44:42.000 INFO: --------------------------------------------------------
+- 09:44:42.000 INFO: Started application
+- 09:44:42.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:44:42.000 INFO: Log level = INFO
+- 09:44:42.000 INFO: Starting Mongoose web server
+- 09:44:42.000 INFO: Web server url: http://127.0.0.1:54007/
+- 09:44:42.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:44:42.000 INFO: Index files: index.html,index.php
+- 09:44:42.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:44:42.000 INFO: CGI pattern: **.php$
+- 09:44:42.000 INFO: IE version from registry: 8.0.7600.16385
+- 09:44:42.203 INFO: GET 200 /
+- 09:44:43.609 INFO: GET 304 /excel.png
+- 09:44:43.609 INFO: GET 304 /logo.png
+- 09:44:43.609 INFO: GET 304 /3.png
+- 09:44:43.609 INFO: GET 304 /folder.png
+- 09:44:43.609 INFO: GET 304 /2.png
+- 09:44:43.609 INFO: GET 304 /1.png
+- 09:45:15.812 INFO: GET 304 /excel.png
+- 09:45:15.812 INFO: GET 304 /folder.png
+- 09:45:15.828 INFO: GET 304 /logo.png
+- 09:45:15.828 INFO: POST 200 /index.php?act=download
+- 09:47:50.218 INFO: GET 200 /
+- 09:47:51.640 INFO: GET 304 /logo.png
+- 09:47:51.640 INFO: GET 304 /excel.png
+- 09:47:51.640 INFO: GET 304 /folder.png
+- 09:47:51.640 INFO: GET 304 /1.png
+- 09:47:51.640 INFO: GET 304 /2.png
+- 09:47:51.640 INFO: GET 304 /3.png
+- 09:47:59.765 INFO: Stopping Mongoose web server
+- 09:48:23.578 INFO: POST 500 /index.php?act=download
+- 09:48:23.578 INFO: Ended application
+- 09:48:23.578 INFO: --------------------------------------------------------
+- 09:48:52.000 INFO: --------------------------------------------------------
+- 09:48:52.000 INFO: Started application
+- 09:48:52.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:48:52.000 INFO: Log level = INFO
+- 09:48:52.000 INFO: Starting Mongoose web server
+- 09:48:52.000 INFO: Web server url: http://127.0.0.1:54007/
+- 09:48:52.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:48:52.000 INFO: Index files: index.html,index.php
+- 09:48:52.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:48:52.000 INFO: CGI pattern: **.php$
+- 09:48:52.000 INFO: IE version from registry: 8.0.7600.16385
+- 09:48:52.204 INFO: GET 200 /
+- 09:48:52.594 INFO: GET 304 /logo.png
+- 09:48:52.594 INFO: GET 304 /folder.png
+- 09:48:52.594 INFO: GET 304 /excel.png
+- 09:48:52.594 INFO: GET 304 /3.png
+- 09:48:52.594 INFO: GET 304 /1.png
+- 09:48:52.594 INFO: GET 304 /2.png
+- 09:49:21.688 INFO: GET 304 /excel.png
+- 09:49:21.688 INFO: GET 304 /1.png
+- 09:49:21.688 INFO: GET 304 /folder.png
+- 09:49:21.688 INFO: GET 304 /logo.png
+- 09:49:21.688 INFO: GET 304 /2.png
+- 09:49:22.704 INFO: POST 200 /index.php?act=download
+- 09:49:22.704 INFO: GET 304 /3.png
+- 09:51:07.594 INFO: Stopping Mongoose web server
+- 09:51:07.625 INFO: Ended application
+- 09:51:07.625 INFO: --------------------------------------------------------
+- 09:51:39.000 INFO: --------------------------------------------------------
+- 09:51:39.000 INFO: Started application
+- 09:51:39.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:51:39.000 INFO: Log level = INFO
+- 09:51:39.000 INFO: Starting Mongoose web server
+- 09:51:39.000 INFO: Web server url: http://127.0.0.1:54007/
+- 09:51:39.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:51:39.000 INFO: Index files: index.html,index.php
+- 09:51:39.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:51:39.000 INFO: CGI pattern: **.php$
+- 09:51:39.000 INFO: IE version from registry: 8.0.7600.16385
+- 09:51:40.219 INFO: GET 200 /
+- 09:51:40.625 INFO: GET 304 /logo.png
+- 09:51:40.625 INFO: GET 304 /excel.png
+- 09:51:40.625 INFO: GET 304 /1.png
+- 09:51:40.625 INFO: GET 304 /folder.png
+- 09:51:40.625 INFO: GET 304 /2.png
+- 09:51:40.625 INFO: GET 304 /3.png
+- 09:51:41.875 INFO: GET 304 /logo.png
+- 09:51:41.875 INFO: GET 304 /2.png
+- 09:51:41.875 INFO: GET 304 /folder.png
+- 09:51:41.875 INFO: GET 304 /1.png
+- 09:51:41.875 INFO: GET 304 /excel.png
+- 09:51:41.875 INFO: POST 200 /index.php?act=download
+- 09:51:41.891 INFO: GET 304 /3.png
+- 09:53:03.500 INFO: Stopping Mongoose web server
+- 09:53:03.578 INFO: Ended application
+- 09:53:03.578 INFO: --------------------------------------------------------
+- 09:53:18.000 INFO: --------------------------------------------------------
+- 09:53:18.000 INFO: Started application
+- 09:53:18.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:53:18.000 INFO: Log level = INFO
+- 09:53:18.000 INFO: Starting Mongoose web server
+- 09:53:18.000 INFO: Web server url: http://127.0.0.1:54007/
+- 09:53:18.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:53:18.000 INFO: Index files: index.html,index.php
+- 09:53:18.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:53:18.000 INFO: CGI pattern: **.php$
+- 09:53:18.000 INFO: IE version from registry: 8.0.7600.16385
+- 09:53:18.188 INFO: GET 200 /
+- 09:53:19.579 INFO: GET 304 /logo.png
+- 09:53:19.579 INFO: GET 304 /excel.png
+- 09:53:19.579 INFO: GET 304 /folder.png
+- 09:53:19.594 INFO: GET 304 /1.png
+- 09:53:19.594 INFO: GET 304 /2.png
+- 09:53:19.594 INFO: GET 304 /3.png
+- 09:53:47.047 INFO: POST 200 /index.php?act=download
+- 09:53:47.047 INFO: GET 304 /excel.png
+- 09:53:47.047 INFO: GET 304 /folder.png
+- 09:53:47.047 INFO: GET 304 /logo.png
+- 09:53:47.063 INFO: GET 304 /1.png
+- 09:53:47.063 INFO: GET 304 /2.png
+- 09:53:47.063 INFO: GET 304 /3.png
+- 09:56:55.469 INFO: Stopping Mongoose web server
+- 09:56:55.657 INFO: Ended application
+- 09:56:55.657 INFO: --------------------------------------------------------
+- 09:57:09.015 INFO: --------------------------------------------------------
+- 09:57:09.015 INFO: Started application
+- 09:57:09.015 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:57:09.015 INFO: Log level = INFO
+- 09:57:09.015 INFO: Starting Mongoose web server
+- 09:57:09.015 INFO: Web server url: http://127.0.0.1:54007/
+- 09:57:09.015 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:57:09.015 INFO: Index files: index.html,index.php
+- 09:57:09.015 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:57:09.015 INFO: CGI pattern: **.php$
+- 09:57:09.015 INFO: IE version from registry: 8.0.7600.16385
+- 09:57:10.218 INFO: GET 200 /
+- 09:57:10.609 INFO: GET 304 /logo.png
+- 09:57:10.625 INFO: GET 304 /excel.png
+- 09:57:10.625 INFO: GET 304 /folder.png
+- 09:57:10.625 INFO: GET 304 /2.png
+- 09:57:10.625 INFO: GET 304 /1.png
+- 09:57:10.625 INFO: GET 304 /3.png
+- 09:57:42.687 INFO: GET 304 /logo.png
+- 09:57:42.687 INFO: GET 304 /excel.png
+- 09:57:42.687 INFO: GET 304 /folder.png
+- 09:57:42.687 INFO: POST 200 /index.php?act=download
+- 09:58:50.640 INFO: Stopping Mongoose web server
+- 09:58:50.765 INFO: Ended application
+- 09:58:50.765 INFO: --------------------------------------------------------
+- 09:59:01.000 INFO: --------------------------------------------------------
+- 09:59:01.000 INFO: Started application
+- 09:59:01.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 09:59:01.000 INFO: Log level = INFO
+- 09:59:01.000 INFO: Starting Mongoose web server
+- 09:59:01.000 INFO: Web server url: http://127.0.0.1:54007/
+- 09:59:01.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 09:59:01.000 INFO: Index files: index.html,index.php
+- 09:59:01.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 09:59:01.000 INFO: CGI pattern: **.php$
+- 09:59:01.000 INFO: IE version from registry: 8.0.7600.16385
+- 09:59:01.172 INFO: GET 200 /
+- 09:59:02.609 INFO: GET 304 /logo.png
+- 09:59:02.625 INFO: GET 304 /excel.png
+- 09:59:02.625 INFO: GET 304 /folder.png
+- 09:59:02.625 INFO: GET 304 /1.png
+- 09:59:02.625 INFO: GET 304 /2.png
+- 09:59:02.625 INFO: GET 304 /3.png
+- 09:59:34.562 INFO: POST 200 /index.php?act=download
+- 09:59:34.562 INFO: GET 304 /logo.png
+- 09:59:34.562 INFO: GET 304 /excel.png
+- 09:59:34.562 INFO: GET 304 /folder.png
+- 09:59:46.687 INFO: Stopping Mongoose web server
+- 09:59:46.781 INFO: Ended application
+- 09:59:46.781 INFO: --------------------------------------------------------
+- 10:00:45.000 INFO: --------------------------------------------------------
+- 10:00:45.000 INFO: Started application
+- 10:00:45.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 10:00:45.000 INFO: Log level = INFO
+- 10:00:45.000 INFO: Starting Mongoose web server
+- 10:00:45.000 INFO: Web server url: http://127.0.0.1:54007/
+- 10:00:45.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 10:00:45.000 INFO: Index files: index.html,index.php
+- 10:00:45.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 10:00:45.000 INFO: CGI pattern: **.php$
+- 10:00:45.000 INFO: IE version from registry: 8.0.7600.16385
+- 10:00:45.203 INFO: GET 200 /
+- 10:00:45.610 INFO: GET 304 /folder.png
+- 10:00:45.610 INFO: GET 304 /logo.png
+- 10:00:45.610 INFO: GET 304 /excel.png
+- 10:00:45.610 INFO: GET 304 /1.png
+- 10:00:45.610 INFO: GET 304 /2.png
+- 10:00:45.610 INFO: GET 304 /3.png
+- 10:01:16.281 INFO: GET 304 /logo.png
+- 10:01:16.281 INFO: GET 304 /1.png
+- 10:01:16.281 INFO: GET 304 /excel.png
+- 10:01:16.281 INFO: GET 304 /folder.png
+- 10:01:16.281 INFO: GET 304 /2.png
+- 10:01:16.297 INFO: POST 200 /index.php?act=download
+- 10:01:16.313 INFO: GET 304 /3.png
+- 10:06:40.625 INFO: Stopping Mongoose web server
+- 10:06:40.656 INFO: Ended application
+- 10:06:40.656 INFO: --------------------------------------------------------
+- 10:06:57.000 INFO: --------------------------------------------------------
+- 10:06:57.000 INFO: Started application
+- 10:06:57.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 10:06:57.000 INFO: Log level = INFO
+- 10:06:57.000 INFO: Starting Mongoose web server
+- 10:06:57.000 INFO: Web server url: http://127.0.0.1:54007/
+- 10:06:57.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 10:06:57.000 INFO: Index files: index.html,index.php
+- 10:06:57.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 10:06:57.000 INFO: CGI pattern: **.php$
+- 10:06:57.000 INFO: IE version from registry: 8.0.7600.16385
+- 10:06:58.187 INFO: GET 200 /
+- 10:06:58.594 INFO: GET 304 /logo.png
+- 10:06:58.594 INFO: GET 304 /excel.png
+- 10:06:58.594 INFO: GET 304 /3.png
+- 10:06:58.594 INFO: GET 304 /folder.png
+- 10:06:58.594 INFO: GET 304 /2.png
+- 10:06:58.594 INFO: GET 304 /1.png
+- 10:07:25.547 INFO: GET 304 /logo.png
+- 10:07:25.547 INFO: GET 304 /folder.png
+- 10:07:25.547 INFO: GET 304 /1.png
+- 10:07:25.547 INFO: GET 304 /2.png
+- 10:07:25.547 INFO: GET 304 /excel.png
+- 10:07:25.547 INFO: POST 200 /index.php?act=download
+- 10:07:25.562 INFO: GET 304 /3.png
+- 10:08:16.531 INFO: GET 304 /logo.png
+- 10:08:16.531 INFO: GET 304 /excel.png
+- 10:08:16.531 INFO: GET 304 /folder.png
+- 10:08:16.531 INFO: GET 304 /2.png
+- 10:08:16.531 INFO: POST 200 /index.php?act=download
+- 10:08:16.547 INFO: GET 304 /1.png
+- 10:08:16.562 INFO: GET 304 /3.png
+- 10:08:52.297 INFO: Stopping Mongoose web server
+- 10:08:52.391 INFO: Ended application
+- 10:08:52.391 INFO: --------------------------------------------------------
+- 10:09:56.016 INFO: --------------------------------------------------------
+- 10:09:56.016 INFO: Started application
+- 10:09:56.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 10:09:56.016 INFO: Log level = INFO
+- 10:09:56.016 INFO: Starting Mongoose web server
+- 10:09:56.016 INFO: Web server url: http://127.0.0.1:54007/
+- 10:09:56.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 10:09:56.016 INFO: Index files: index.html,index.php
+- 10:09:56.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 10:09:56.016 INFO: CGI pattern: **.php$
+- 10:09:56.031 INFO: IE version from registry: 8.0.7600.16385
+- 10:09:56.297 INFO: GET 200 /
+- 10:09:57.625 INFO: GET 304 /logo.png
+- 10:09:57.625 INFO: GET 304 /excel.png
+- 10:09:57.625 INFO: GET 304 /1.png
+- 10:09:57.625 INFO: GET 304 /folder.png
+- 10:09:57.625 INFO: GET 304 /2.png
+- 10:09:57.625 INFO: GET 304 /3.png
+- 10:10:29.875 INFO: POST 200 /index.php?act=download
+- 10:10:29.891 INFO: GET 304 /logo.png
+- 10:10:29.891 INFO: GET 304 /excel.png
+- 10:10:29.891 INFO: GET 304 /folder.png
+- 10:10:36.016 INFO: Stopping Mongoose web server
+- 10:10:36.094 INFO: Ended application
+- 10:10:36.094 INFO: --------------------------------------------------------
+- 10:23:32.000 INFO: --------------------------------------------------------
+- 10:23:32.000 INFO: Started application
+- 10:23:32.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 10:23:32.000 INFO: Log level = INFO
+- 10:23:32.000 INFO: Starting Mongoose web server
+- 10:23:32.000 INFO: Web server url: http://127.0.0.1:54007/
+- 10:23:32.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 10:23:32.000 INFO: Index files: index.html,index.php
+- 10:23:32.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 10:23:32.000 INFO: CGI pattern: **.php$
+- 10:23:32.000 INFO: IE version from registry: 8.0.7600.16385
+- 10:23:32.187 INFO: GET 200 /
+- 10:23:33.609 INFO: GET 304 /logo.png
+- 10:23:33.609 INFO: GET 304 /excel.png
+- 10:23:33.609 INFO: GET 304 /folder.png
+- 10:23:33.609 INFO: GET 304 /1.png
+- 10:23:33.609 INFO: GET 304 /2.png
+- 10:23:33.609 INFO: GET 304 /3.png
+- 10:28:19.312 INFO: POST 200 /index.php?act=download
+- 10:28:19.328 INFO: GET 304 /logo.png
+- 10:28:19.328 INFO: GET 304 /excel.png
+- 10:28:19.328 INFO: GET 304 /folder.png
+- 10:28:19.328 INFO: GET 304 /2.png
+- 10:28:19.328 INFO: GET 304 /3.png
+- 10:28:19.328 INFO: GET 304 /1.png
+- 10:33:59.547 INFO: Stopping Mongoose web server
+- 10:33:59.703 INFO: Ended application
+- 10:33:59.703 INFO: --------------------------------------------------------
+- 10:35:48.000 INFO: --------------------------------------------------------
+- 10:35:48.000 INFO: Started application
+- 10:35:48.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 10:35:48.000 INFO: Log level = INFO
+- 10:35:48.000 INFO: Starting Mongoose web server
+- 10:35:48.000 INFO: Web server url: http://127.0.0.1:54007/
+- 10:35:48.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 10:35:48.000 INFO: Index files: index.html,index.php
+- 10:35:48.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 10:35:48.000 INFO: CGI pattern: **.php$
+- 10:35:48.000 INFO: IE version from registry: 8.0.7600.16385
+- 10:35:48.187 INFO: GET 200 /
+- 10:35:49.609 INFO: GET 304 /logo.png
+- 10:35:49.609 INFO: GET 304 /excel.png
+- 10:35:49.609 INFO: GET 304 /folder.png
+- 10:35:49.609 INFO: GET 304 /1.png
+- 10:35:49.609 INFO: GET 304 /2.png
+- 10:35:49.609 INFO: GET 304 /3.png
+- 10:36:21.843 INFO: Stopping Mongoose web server
+- 10:36:21.046 INFO: Ended application
+- 10:36:21.046 INFO: --------------------------------------------------------
+- 10:37:06.000 INFO: --------------------------------------------------------
+- 10:37:06.000 INFO: Started application
+- 10:37:06.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 10:37:06.000 INFO: Log level = INFO
+- 10:37:06.000 INFO: Starting Mongoose web server
+- 10:37:06.000 INFO: Web server url: http://127.0.0.1:54007/
+- 10:37:06.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 10:37:06.000 INFO: Index files: index.html,index.php
+- 10:37:06.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 10:37:06.000 INFO: CGI pattern: **.php$
+- 10:37:06.031 INFO: IE version from registry: 8.0.7600.16385
+- 10:37:06.203 INFO: GET 200 /
+- 10:37:07.609 INFO: GET 304 /logo.png
+- 10:37:07.609 INFO: GET 304 /excel.png
+- 10:37:07.609 INFO: GET 304 /folder.png
+- 10:37:07.609 INFO: GET 304 /1.png
+- 10:37:07.609 INFO: GET 304 /2.png
+- 10:37:07.609 INFO: GET 304 /3.png
+- 10:37:46.578 INFO: Stopping Mongoose web server
+- 10:37:46.656 INFO: Ended application
+- 10:37:46.656 INFO: --------------------------------------------------------
+- 10:37:49.000 INFO: --------------------------------------------------------
+- 10:37:49.000 INFO: Started application
+- 10:37:49.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 10:37:49.000 INFO: Log level = INFO
+- 10:37:49.000 INFO: Starting Mongoose web server
+- 10:37:49.000 INFO: Web server url: http://127.0.0.1:54007/
+- 10:37:49.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 10:37:49.000 INFO: Index files: index.html,index.php
+- 10:37:49.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 10:37:49.000 INFO: CGI pattern: **.php$
+- 10:37:49.016 INFO: IE version from registry: 8.0.7600.16385
+- 10:37:49.266 INFO: GET 200 /
+- 10:37:50.610 INFO: GET 304 /excel.png
+- 10:37:50.610 INFO: GET 304 /folder.png
+- 10:37:50.610 INFO: GET 304 /1.png
+- 10:37:50.610 INFO: GET 304 /2.png
+- 10:37:50.610 INFO: GET 304 /logo.png
+- 10:37:50.610 INFO: GET 304 /3.png
+- 10:45:25.875 INFO: Stopping Mongoose web server
+- 10:45:25.891 INFO: Ended application
+- 10:45:25.891 INFO: --------------------------------------------------------
+- 11:23:14.000 INFO: --------------------------------------------------------
+- 11:23:14.000 INFO: Started application
+- 11:23:14.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 11:23:14.000 INFO: Log level = INFO
+- 11:23:14.000 INFO: Starting Mongoose web server
+- 11:23:14.000 INFO: Web server url: http://127.0.0.1:54007/
+- 11:23:14.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 11:23:14.000 INFO: Index files: index.html,index.php
+- 11:23:14.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 11:23:14.015 INFO: CGI pattern: **.php$
+- 11:23:14.015 INFO: IE version from registry: 8.0.7600.16385
+- 11:23:14.203 INFO: GET 200 /
+- 11:23:15.625 INFO: GET 304 /logo.png
+- 11:23:15.625 INFO: GET 304 /excel.png
+- 11:23:15.625 INFO: GET 304 /1.png
+- 11:23:15.625 INFO: GET 304 /folder.png
+- 11:23:15.625 INFO: GET 304 /2.png
+- 11:23:15.625 INFO: GET 304 /3.png
+- 11:23:53.531 INFO: Stopping Mongoose web server
+- 11:23:53.656 INFO: Ended application
+- 11:23:53.656 INFO: --------------------------------------------------------
+- 11:23:56.000 INFO: --------------------------------------------------------
+- 11:23:56.000 INFO: Started application
+- 11:23:56.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 11:23:56.000 INFO: Log level = INFO
+- 11:23:56.000 INFO: Starting Mongoose web server
+- 11:23:56.000 INFO: Web server url: http://127.0.0.1:54007/
+- 11:23:56.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 11:23:56.000 INFO: Index files: index.html,index.php
+- 11:23:56.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 11:23:56.000 INFO: CGI pattern: **.php$
+- 11:23:56.000 INFO: IE version from registry: 8.0.7600.16385
+- 11:23:56.297 INFO: GET 200 /
+- 11:23:56.609 INFO: GET 304 /logo.png
+- 11:23:56.609 INFO: GET 304 /excel.png
+- 11:23:56.609 INFO: GET 304 /folder.png
+- 11:23:56.609 INFO: GET 304 /3.png
+- 11:23:56.609 INFO: GET 304 /2.png
+- 11:23:56.609 INFO: GET 304 /1.png
+- 11:24:02.141 INFO: Stopping Mongoose web server
+- 11:24:02.219 INFO: Ended application
+- 11:24:02.219 INFO: --------------------------------------------------------
+- 12:08:02.000 INFO: --------------------------------------------------------
+- 12:08:02.000 INFO: Started application
+- 12:08:02.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:08:02.000 INFO: Log level = INFO
+- 12:08:02.000 INFO: Starting Mongoose web server
+- 12:08:02.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:08:02.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:08:02.000 INFO: Index files: index.html,index.php
+- 12:08:02.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:08:02.000 INFO: CGI pattern: **.php$
+- 12:08:02.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:08:03.343 INFO: GET 200 /
+- 12:08:03.750 INFO: GET 304 /logo.png
+- 12:08:03.750 INFO: GET 304 /excel.png
+- 12:08:03.765 INFO: GET 200 /download.png
+- 12:08:03.765 INFO: GET 304 /folder.png
+- 12:08:03.765 INFO: GET 304 /1.png
+- 12:08:03.765 INFO: GET 304 /2.png
+- 12:08:03.765 INFO: GET 304 /3.png
+- 12:08:52.937 INFO: Stopping Mongoose web server
+- 12:08:52.015 INFO: Ended application
+- 12:08:52.015 INFO: --------------------------------------------------------
+- 12:14:30.000 INFO: --------------------------------------------------------
+- 12:14:30.000 INFO: Started application
+- 12:14:30.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:14:30.000 INFO: Log level = INFO
+- 12:14:30.015 INFO: Starting Mongoose web server
+- 12:14:30.015 INFO: Web server url: http://127.0.0.1:54007/
+- 12:14:30.015 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:14:30.015 INFO: Index files: index.html,index.php
+- 12:14:30.015 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:14:30.015 INFO: CGI pattern: **.php$
+- 12:14:30.015 INFO: IE version from registry: 8.0.7600.16385
+- 12:14:31.218 INFO: GET 200 /
+- 12:14:31.609 INFO: GET 304 /logo.png
+- 12:14:31.609 INFO: GET 304 /excel.png
+- 12:14:31.609 INFO: GET 304 /1.png
+- 12:14:31.609 INFO: GET 304 /folder.png
+- 12:14:31.609 INFO: GET 304 /2.png
+- 12:14:31.609 INFO: GET 304 /3.png
+- 12:14:31.625 INFO: GET 304 /download.png
+- 12:14:47.531 INFO: Stopping Mongoose web server
+- 12:14:47.640 INFO: Ended application
+- 12:14:47.640 INFO: --------------------------------------------------------
+- 12:15:40.000 INFO: --------------------------------------------------------
+- 12:15:40.000 INFO: Started application
+- 12:15:40.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:15:40.000 INFO: Log level = INFO
+- 12:15:40.000 INFO: Starting Mongoose web server
+- 12:15:40.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:15:40.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:15:40.000 INFO: Index files: index.html,index.php
+- 12:15:40.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:15:40.000 INFO: CGI pattern: **.php$
+- 12:15:41.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:15:41.187 INFO: GET 200 /
+- 12:15:41.594 INFO: GET 304 /logo.png
+- 12:15:41.594 INFO: GET 304 /excel.png
+- 12:15:41.594 INFO: GET 304 /folder.png
+- 12:15:41.594 INFO: GET 304 /1.png
+- 12:15:41.594 INFO: GET 304 /2.png
+- 12:15:41.594 INFO: GET 304 /3.png
+- 12:15:41.594 INFO: GET 304 /download.png
+- 12:15:57.484 INFO: Stopping Mongoose web server
+- 12:15:57.609 INFO: Ended application
+- 12:15:57.609 INFO: --------------------------------------------------------
+- 12:17:08.000 INFO: --------------------------------------------------------
+- 12:17:08.000 INFO: Started application
+- 12:17:08.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:17:08.000 INFO: Log level = INFO
+- 12:17:08.000 INFO: Starting Mongoose web server
+- 12:17:08.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:17:08.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:17:08.000 INFO: Index files: index.html,index.php
+- 12:17:08.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:17:08.000 INFO: CGI pattern: **.php$
+- 12:17:08.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:17:09.188 INFO: GET 200 /
+- 12:17:09.594 INFO: GET 304 /logo.png
+- 12:17:09.594 INFO: GET 304 /excel.png
+- 12:17:09.594 INFO: GET 304 /folder.png
+- 12:17:09.594 INFO: GET 304 /1.png
+- 12:17:09.594 INFO: GET 304 /2.png
+- 12:17:09.594 INFO: GET 304 /download.png
+- 12:17:09.594 INFO: GET 304 /3.png
+- 12:17:22.047 INFO: Stopping Mongoose web server
+- 12:17:23.219 INFO: Ended application
+- 12:17:23.219 INFO: --------------------------------------------------------
+- 12:18:47.000 INFO: --------------------------------------------------------
+- 12:18:47.000 INFO: Started application
+- 12:18:47.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:18:47.000 INFO: Log level = INFO
+- 12:18:47.000 INFO: Starting Mongoose web server
+- 12:18:47.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:18:47.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:18:47.000 INFO: Index files: index.html,index.php
+- 12:18:47.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:18:47.000 INFO: CGI pattern: **.php$
+- 12:18:47.015 INFO: IE version from registry: 8.0.7600.16385
+- 12:18:48.281 INFO: GET 200 /
+- 12:18:48.593 INFO: GET 304 /logo.png
+- 12:18:48.593 INFO: GET 304 /1.png
+- 12:18:48.593 INFO: GET 304 /3.png
+- 12:18:48.593 INFO: GET 304 /2.png
+- 12:18:48.593 INFO: GET 304 /download.png
+- 12:18:48.593 INFO: GET 304 /excel.png
+- 12:18:48.593 INFO: GET 304 /folder.png
+- 12:18:58.359 INFO: Stopping Mongoose web server
+- 12:18:58.421 INFO: Ended application
+- 12:18:58.421 INFO: --------------------------------------------------------
+- 12:19:42.016 INFO: --------------------------------------------------------
+- 12:19:42.016 INFO: Started application
+- 12:19:42.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:19:42.016 INFO: Log level = INFO
+- 12:19:42.016 INFO: Starting Mongoose web server
+- 12:19:42.016 INFO: Web server url: http://127.0.0.1:54007/
+- 12:19:42.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:19:42.016 INFO: Index files: index.html,index.php
+- 12:19:42.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:19:42.016 INFO: CGI pattern: **.php$
+- 12:19:42.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:19:42.204 INFO: GET 200 /
+- 12:19:42.594 INFO: GET 304 /logo.png
+- 12:19:42.594 INFO: GET 304 /1.png
+- 12:19:42.594 INFO: GET 304 /2.png
+- 12:19:42.594 INFO: GET 304 /download.png
+- 12:19:42.594 INFO: GET 304 /excel.png
+- 12:19:42.594 INFO: GET 304 /3.png
+- 12:19:42.594 INFO: GET 304 /folder.png
+- 12:20:10.016 INFO: Stopping Mongoose web server
+- 12:20:10.235 INFO: Ended application
+- 12:20:10.235 INFO: --------------------------------------------------------
+- 12:21:25.000 INFO: --------------------------------------------------------
+- 12:21:25.000 INFO: Started application
+- 12:21:25.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:21:25.000 INFO: Log level = INFO
+- 12:21:25.000 INFO: Starting Mongoose web server
+- 12:21:25.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:21:25.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:21:25.000 INFO: Index files: index.html,index.php
+- 12:21:25.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:21:25.000 INFO: CGI pattern: **.php$
+- 12:21:25.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:21:25.203 INFO: GET 200 /
+- 12:21:25.594 INFO: GET 304 /logo.png
+- 12:21:25.594 INFO: GET 304 /1.png
+- 12:21:25.594 INFO: GET 304 /download.png
+- 12:21:25.594 INFO: GET 304 /2.png
+- 12:21:25.594 INFO: GET 304 /excel.png
+- 12:21:25.594 INFO: GET 304 /3.png
+- 12:21:25.594 INFO: GET 304 /folder.png
+- 12:21:37.360 INFO: Stopping Mongoose web server
+- 12:21:37.406 INFO: Ended application
+- 12:21:37.406 INFO: --------------------------------------------------------
+- 12:23:24.000 INFO: --------------------------------------------------------
+- 12:23:24.000 INFO: Started application
+- 12:23:24.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:23:24.000 INFO: Log level = INFO
+- 12:23:24.000 INFO: Starting Mongoose web server
+- 12:23:24.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:23:24.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:23:24.000 INFO: Index files: index.html,index.php
+- 12:23:24.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:23:24.000 INFO: CGI pattern: **.php$
+- 12:23:24.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:23:24.219 INFO: GET 200 /
+- 12:23:25.625 INFO: GET 304 /logo.png
+- 12:23:25.625 INFO: GET 304 /1.png
+- 12:23:25.625 INFO: GET 304 /2.png
+- 12:23:25.625 INFO: GET 304 /download.png
+- 12:23:25.625 INFO: GET 304 /3.png
+- 12:23:25.625 INFO: GET 304 /excel.png
+- 12:23:25.625 INFO: GET 304 /folder.png
+- 12:23:38.547 INFO: Stopping Mongoose web server
+- 12:23:38.641 INFO: Ended application
+- 12:23:38.641 INFO: --------------------------------------------------------
+- 12:26:20.000 INFO: --------------------------------------------------------
+- 12:26:20.000 INFO: Started application
+- 12:26:20.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:26:20.000 INFO: Log level = INFO
+- 12:26:20.000 INFO: Starting Mongoose web server
+- 12:26:20.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:26:20.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:26:20.000 INFO: Index files: index.html,index.php
+- 12:26:20.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:26:20.000 INFO: CGI pattern: **.php$
+- 12:26:20.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:26:20.203 INFO: GET 200 /
+- 12:26:20.594 INFO: GET 304 /logo.png
+- 12:26:20.594 INFO: GET 304 /1.png
+- 12:26:20.594 INFO: GET 304 /2.png
+- 12:26:20.594 INFO: GET 304 /3.png
+- 12:26:20.610 INFO: GET 304 /download.png
+- 12:26:20.610 INFO: GET 304 /excel.png
+- 12:26:20.610 INFO: GET 304 /folder.png
+- 12:26:25.469 INFO: Stopping Mongoose web server
+- 12:26:25.610 INFO: Ended application
+- 12:26:25.610 INFO: --------------------------------------------------------
+- 12:26:44.000 INFO: --------------------------------------------------------
+- 12:26:44.000 INFO: Started application
+- 12:26:44.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:26:44.000 INFO: Log level = INFO
+- 12:26:44.000 INFO: Starting Mongoose web server
+- 12:26:44.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:26:44.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:26:44.000 INFO: Index files: index.html,index.php
+- 12:26:44.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:26:44.000 INFO: CGI pattern: **.php$
+- 12:26:44.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:26:44.203 INFO: GET 200 /
+- 12:26:44.593 INFO: GET 304 /logo.png
+- 12:26:44.593 INFO: GET 304 /1.png
+- 12:26:44.593 INFO: GET 304 /3.png
+- 12:26:44.593 INFO: GET 304 /excel.png
+- 12:26:44.609 INFO: GET 304 /download.png
+- 12:26:44.609 INFO: GET 304 /2.png
+- 12:26:44.609 INFO: GET 304 /folder.png
+- 12:26:51.140 INFO: Stopping Mongoose web server
+- 12:26:51.218 INFO: Ended application
+- 12:26:51.218 INFO: --------------------------------------------------------
+- 12:27:56.016 INFO: --------------------------------------------------------
+- 12:27:56.016 INFO: Started application
+- 12:27:56.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:27:56.016 INFO: Log level = INFO
+- 12:27:56.016 INFO: Starting Mongoose web server
+- 12:27:56.016 INFO: Web server url: http://127.0.0.1:54007/
+- 12:27:56.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:27:56.016 INFO: Index files: index.html,index.php
+- 12:27:56.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:27:56.016 INFO: CGI pattern: **.php$
+- 12:27:56.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:27:56.172 INFO: GET 200 /
+- 12:27:57.578 INFO: GET 304 /logo.png
+- 12:27:57.578 INFO: GET 304 /1.png
+- 12:27:57.578 INFO: GET 304 /2.png
+- 12:27:57.594 INFO: GET 304 /download.png
+- 12:27:57.594 INFO: GET 304 /3.png
+- 12:27:57.594 INFO: GET 304 /excel.png
+- 12:27:57.594 INFO: GET 304 /folder.png
+- 12:28:18.485 INFO: Stopping Mongoose web server
+- 12:28:18.625 INFO: Ended application
+- 12:28:18.625 INFO: --------------------------------------------------------
+- 12:41:46.000 INFO: --------------------------------------------------------
+- 12:41:46.000 INFO: Started application
+- 12:41:46.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:41:46.000 INFO: Log level = INFO
+- 12:41:46.000 INFO: Starting Mongoose web server
+- 12:41:46.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:41:46.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:41:46.000 INFO: Index files: index.html,index.php
+- 12:41:46.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:41:46.000 INFO: CGI pattern: **.php$
+- 12:41:46.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:41:47.438 INFO: GET 200 /
+- 12:41:47.813 INFO: GET 304 /logo.png
+- 12:41:47.813 INFO: GET 200 /excel-2.png
+- 12:41:47.813 INFO: GET 200 /download-2.png
+- 12:41:47.828 INFO: GET 304 /download.png
+- 12:41:47.828 INFO: GET 200 /folder-2.png
+- 12:41:47.828 INFO: GET 304 /folder.png
+- 12:41:47.828 INFO: GET 304 /excel.png
+- 12:41:51.266 INFO: Stopping Mongoose web server
+- 12:41:51.438 INFO: Ended application
+- 12:41:51.438 INFO: --------------------------------------------------------
+- 12:42:07.015 INFO: --------------------------------------------------------
+- 12:42:07.015 INFO: Started application
+- 12:42:07.015 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:42:07.015 INFO: Log level = INFO
+- 12:42:07.015 INFO: Starting Mongoose web server
+- 12:42:07.015 INFO: Web server url: http://127.0.0.1:54007/
+- 12:42:07.015 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:42:07.015 INFO: Index files: index.html,index.php
+- 12:42:07.015 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:42:07.015 INFO: CGI pattern: **.php$
+- 12:42:07.031 INFO: IE version from registry: 8.0.7600.16385
+- 12:42:07.187 INFO: GET 200 /
+- 12:42:08.953 INFO: GET 304 /logo.png
+- 12:42:08.953 INFO: GET 304 /excel-2.png
+- 12:42:08.953 INFO: GET 304 /folder-2.png
+- 12:42:08.953 INFO: GET 304 /excel.png
+- 12:42:08.953 INFO: GET 304 /download.png
+- 12:42:08.953 INFO: GET 304 /download-2.png
+- 12:42:08.953 INFO: GET 304 /folder.png
+- 12:42:12.000 INFO: Stopping Mongoose web server
+- 12:42:12.172 INFO: Ended application
+- 12:42:12.172 INFO: --------------------------------------------------------
+- 12:42:43.000 INFO: --------------------------------------------------------
+- 12:42:43.000 INFO: Started application
+- 12:42:43.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:42:43.000 INFO: Log level = INFO
+- 12:42:43.000 INFO: Starting Mongoose web server
+- 12:42:43.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:42:43.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:42:43.000 INFO: Index files: index.html,index.php
+- 12:42:43.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:42:43.000 INFO: CGI pattern: **.php$
+- 12:42:43.015 INFO: IE version from registry: 8.0.7600.16385
+- 12:42:43.187 INFO: GET 200 /
+- 12:42:44.593 INFO: GET 304 /logo.png
+- 12:42:44.609 INFO: GET 304 /excel-2.png
+- 12:42:44.609 INFO: GET 304 /download-2.png
+- 12:42:44.609 INFO: GET 304 /folder-2.png
+- 12:42:44.609 INFO: GET 304 /download.png
+- 12:42:44.609 INFO: GET 304 /excel.png
+- 12:42:44.609 INFO: GET 304 /folder.png
+- 12:42:52.062 INFO: Stopping Mongoose web server
+- 12:42:52.234 INFO: Ended application
+- 12:42:52.234 INFO: --------------------------------------------------------
+- 12:43:23.000 INFO: --------------------------------------------------------
+- 12:43:23.000 INFO: Started application
+- 12:43:23.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:43:23.000 INFO: Log level = INFO
+- 12:43:23.000 INFO: Starting Mongoose web server
+- 12:43:23.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:43:23.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:43:23.000 INFO: Index files: index.html,index.php
+- 12:43:23.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:43:23.000 INFO: CGI pattern: **.php$
+- 12:43:23.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:43:23.188 INFO: GET 200 /
+- 12:43:23.688 INFO: GET 304 /logo.png
+- 12:43:23.688 INFO: GET 304 /excel-2.png
+- 12:43:23.688 INFO: GET 304 /download-2.png
+- 12:43:23.688 INFO: GET 304 /download.png
+- 12:43:23.703 INFO: GET 200 /folder-2.png
+- 12:43:23.703 INFO: GET 304 /excel.png
+- 12:43:23.703 INFO: GET 304 /folder.png
+- 12:43:27.625 INFO: Stopping Mongoose web server
+- 12:43:27.719 INFO: Ended application
+- 12:43:27.719 INFO: --------------------------------------------------------
+- 12:44:46.000 INFO: --------------------------------------------------------
+- 12:44:46.000 INFO: Started application
+- 12:44:46.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:44:46.000 INFO: Log level = INFO
+- 12:44:46.000 INFO: Starting Mongoose web server
+- 12:44:46.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:44:46.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:44:46.000 INFO: Index files: index.html,index.php
+- 12:44:46.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:44:46.000 INFO: CGI pattern: **.php$
+- 12:44:46.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:44:46.219 INFO: GET 200 /
+- 12:44:47.625 INFO: GET 304 /logo.png
+- 12:44:47.625 INFO: GET 304 /excel-2.png
+- 12:44:47.625 INFO: GET 304 /download-2.png
+- 12:44:47.641 INFO: GET 304 /download.png
+- 12:44:47.641 INFO: GET 304 /excel.png
+- 12:44:47.641 INFO: GET 304 /folder.png
+- 12:44:47.656 INFO: GET 200 /folder-2.png
+- 12:44:56.266 INFO: Stopping Mongoose web server
+- 12:44:56.453 INFO: Ended application
+- 12:44:56.453 INFO: --------------------------------------------------------
+- 12:45:16.000 INFO: --------------------------------------------------------
+- 12:45:16.000 INFO: Started application
+- 12:45:16.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:45:16.000 INFO: Log level = INFO
+- 12:45:16.000 INFO: Starting Mongoose web server
+- 12:45:16.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:45:16.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:45:16.000 INFO: Index files: index.html,index.php
+- 12:45:16.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:45:16.000 INFO: CGI pattern: **.php$
+- 12:45:16.032 INFO: IE version from registry: 8.0.7600.16385
+- 12:45:16.188 INFO: GET 200 /
+- 12:45:17.610 INFO: GET 304 /logo.png
+- 12:45:17.610 INFO: GET 304 /excel-2.png
+- 12:45:17.610 INFO: GET 304 /download-2.png
+- 12:45:17.610 INFO: GET 304 /folder-2.png
+- 12:45:17.625 INFO: GET 304 /download.png
+- 12:45:17.625 INFO: GET 304 /excel.png
+- 12:45:17.625 INFO: GET 304 /folder.png
+- 12:45:20.157 INFO: Stopping Mongoose web server
+- 12:45:20.235 INFO: Ended application
+- 12:45:20.235 INFO: --------------------------------------------------------
+- 12:45:42.000 INFO: --------------------------------------------------------
+- 12:45:42.000 INFO: Started application
+- 12:45:42.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:45:42.000 INFO: Log level = INFO
+- 12:45:42.016 INFO: Starting Mongoose web server
+- 12:45:42.016 INFO: Web server url: http://127.0.0.1:54007/
+- 12:45:42.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:45:42.016 INFO: Index files: index.html,index.php
+- 12:45:42.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:45:42.016 INFO: CGI pattern: **.php$
+- 12:45:42.016 INFO: IE version from registry: 8.0.7600.16385
+- 12:45:42.188 INFO: GET 200 /
+- 12:45:43.610 INFO: GET 304 /logo.png
+- 12:45:43.610 INFO: GET 304 /excel-2.png
+- 12:45:43.610 INFO: GET 304 /folder-2.png
+- 12:45:43.610 INFO: GET 304 /download-2.png
+- 12:45:43.610 INFO: GET 304 /folder.png
+- 12:45:43.610 INFO: GET 304 /download.png
+- 12:45:43.610 INFO: GET 304 /excel.png
+- 12:45:55.047 INFO: Stopping Mongoose web server
+- 12:45:55.235 INFO: Ended application
+- 12:45:55.235 INFO: --------------------------------------------------------
+- 12:46:22.000 INFO: --------------------------------------------------------
+- 12:46:22.000 INFO: Started application
+- 12:46:22.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:46:22.000 INFO: Log level = INFO
+- 12:46:22.000 INFO: Starting Mongoose web server
+- 12:46:22.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:46:22.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:46:22.000 INFO: Index files: index.html,index.php
+- 12:46:22.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:46:22.000 INFO: CGI pattern: **.php$
+- 12:46:22.015 INFO: IE version from registry: 8.0.7600.16385
+- 12:46:22.187 INFO: GET 200 /
+- 12:46:22.609 INFO: GET 304 /logo.png
+- 12:46:22.609 INFO: GET 304 /excel-2.png
+- 12:46:22.609 INFO: GET 304 /download-2.png
+- 12:46:22.609 INFO: GET 304 /folder-2.png
+- 12:46:22.609 INFO: GET 304 /download.png
+- 12:46:22.609 INFO: GET 304 /folder.png
+- 12:46:22.609 INFO: GET 304 /excel.png
+- 12:46:28.703 INFO: Stopping Mongoose web server
+- 12:46:29.828 INFO: Ended application
+- 12:46:29.828 INFO: --------------------------------------------------------
+- 12:46:53.000 INFO: --------------------------------------------------------
+- 12:46:53.000 INFO: Started application
+- 12:46:53.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:46:53.000 INFO: Log level = INFO
+- 12:46:53.000 INFO: Starting Mongoose web server
+- 12:46:53.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:46:53.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:46:53.000 INFO: Index files: index.html,index.php
+- 12:46:53.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:46:53.000 INFO: CGI pattern: **.php$
+- 12:46:53.015 INFO: IE version from registry: 8.0.7600.16385
+- 12:46:53.187 INFO: GET 200 /
+- 12:46:53.609 INFO: GET 304 /excel-2.png
+- 12:46:53.609 INFO: GET 304 /logo.png
+- 12:46:53.609 INFO: GET 304 /download-2.png
+- 12:46:53.609 INFO: GET 304 /folder-2.png
+- 12:46:53.609 INFO: GET 304 /download.png
+- 12:46:53.609 INFO: GET 304 /excel.png
+- 12:46:53.609 INFO: GET 304 /folder.png
+- 12:47:09.468 INFO: Stopping Mongoose web server
+- 12:47:09.625 INFO: Ended application
+- 12:47:09.625 INFO: --------------------------------------------------------
+- 12:47:55.000 INFO: --------------------------------------------------------
+- 12:47:55.000 INFO: Started application
+- 12:47:55.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:47:55.000 INFO: Log level = INFO
+- 12:47:55.000 INFO: Starting Mongoose web server
+- 12:47:55.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:47:55.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:47:55.000 INFO: Index files: index.html,index.php
+- 12:47:55.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:47:55.000 INFO: CGI pattern: **.php$
+- 12:47:55.015 INFO: IE version from registry: 8.0.7600.16385
+- 12:47:55.390 INFO: GET 200 /
+- 12:47:55.609 INFO: GET 304 /logo.png
+- 12:47:55.609 INFO: GET 304 /1.png
+- 12:47:55.609 INFO: GET 304 /download.png
+- 12:47:55.609 INFO: GET 304 /3.png
+- 12:47:55.609 INFO: GET 304 /excel.png
+- 12:47:55.609 INFO: GET 304 /folder.png
+- 12:47:55.609 INFO: GET 304 /2.png
+- 12:48:03.047 INFO: Stopping Mongoose web server
+- 12:48:03.234 INFO: Ended application
+- 12:48:03.234 INFO: --------------------------------------------------------
+- 12:49:45.000 INFO: --------------------------------------------------------
+- 12:49:45.000 INFO: Started application
+- 12:49:45.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 12:49:45.000 INFO: Log level = INFO
+- 12:49:45.000 INFO: Starting Mongoose web server
+- 12:49:45.000 INFO: Web server url: http://127.0.0.1:54007/
+- 12:49:45.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 12:49:45.000 INFO: Index files: index.html,index.php
+- 12:49:45.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 12:49:45.000 INFO: CGI pattern: **.php$
+- 12:49:45.000 INFO: IE version from registry: 8.0.7600.16385
+- 12:49:45.203 INFO: GET 200 /
+- 12:49:46.609 INFO: GET 200 /logo.png
+- 12:49:46.609 INFO: GET 304 /1.png
+- 12:49:46.609 INFO: GET 304 /2.png
+- 12:49:46.609 INFO: GET 304 /3.png
+- 12:49:46.625 INFO: GET 304 /download.png
+- 12:49:46.625 INFO: GET 304 /excel.png
+- 12:49:46.625 INFO: GET 304 /folder.png
+- 12:49:54.859 INFO: Stopping Mongoose web server
+- 12:49:54.031 INFO: Ended application
+- 12:49:54.031 INFO: --------------------------------------------------------
+- 13:02:06.000 INFO: --------------------------------------------------------
+- 13:02:06.000 INFO: Started application
+- 13:02:06.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:02:06.000 INFO: Log level = INFO
+- 13:02:06.000 INFO: Starting Mongoose web server
+- 13:02:06.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:02:06.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:02:06.000 INFO: Index files: index.html,index.php
+- 13:02:06.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:02:06.000 INFO: CGI pattern: **.php$
+- 13:02:06.016 INFO: IE version from registry: 8.0.7600.16385
+- 13:02:07.266 INFO: GET 200 /
+- 13:02:07.672 INFO: GET 304 /1.png
+- 13:02:07.672 INFO: GET 200 /logo.png
+- 13:02:07.687 INFO: GET 304 /2.png
+- 13:02:07.687 INFO: GET 304 /3.png
+- 13:02:07.687 INFO: GET 304 /download.png
+- 13:02:07.687 INFO: GET 304 /excel.png
+- 13:02:07.687 INFO: GET 304 /folder.png
+- 13:02:12.687 INFO: Stopping Mongoose web server
+- 13:02:12.703 INFO: Ended application
+- 13:02:12.703 INFO: --------------------------------------------------------
+- 13:02:28.000 INFO: --------------------------------------------------------
+- 13:02:28.000 INFO: Started application
+- 13:02:28.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:02:28.000 INFO: Log level = INFO
+- 13:02:28.000 INFO: Starting Mongoose web server
+- 13:02:28.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:02:28.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:02:28.000 INFO: Index files: index.html,index.php
+- 13:02:28.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:02:28.000 INFO: CGI pattern: **.php$
+- 13:02:28.015 INFO: IE version from registry: 8.0.7600.16385
+- 13:02:28.250 INFO: GET 200 /
+- 13:02:28.594 INFO: GET 304 /logo.png
+- 13:02:28.594 INFO: GET 304 /1.png
+- 13:02:28.594 INFO: GET 304 /3.png
+- 13:02:28.594 INFO: GET 304 /2.png
+- 13:02:28.609 INFO: GET 304 /download.png
+- 13:02:28.609 INFO: GET 304 /excel.png
+- 13:02:28.609 INFO: GET 304 /folder.png
+- 13:02:31.500 INFO: Stopping Mongoose web server
+- 13:02:31.625 INFO: Ended application
+- 13:02:31.625 INFO: --------------------------------------------------------
+- 13:02:39.016 INFO: --------------------------------------------------------
+- 13:02:39.016 INFO: Started application
+- 13:02:39.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:02:39.016 INFO: Log level = INFO
+- 13:02:39.016 INFO: Starting Mongoose web server
+- 13:02:39.016 INFO: Web server url: http://127.0.0.1:54007/
+- 13:02:39.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:02:39.016 INFO: Index files: index.html,index.php
+- 13:02:39.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:02:39.016 INFO: CGI pattern: **.php$
+- 13:02:39.016 INFO: IE version from registry: 8.0.7600.16385
+- 13:02:39.203 INFO: GET 200 /
+- 13:02:39.625 INFO: GET 304 /logo.png
+- 13:02:39.625 INFO: GET 304 /1.png
+- 13:02:39.625 INFO: GET 304 /2.png
+- 13:02:39.625 INFO: GET 304 /3.png
+- 13:02:39.625 INFO: GET 304 /download.png
+- 13:02:39.625 INFO: GET 304 /excel.png
+- 13:02:39.625 INFO: GET 304 /folder.png
+- 13:02:50.906 INFO: Stopping Mongoose web server
+- 13:02:50.047 INFO: Ended application
+- 13:02:50.047 INFO: --------------------------------------------------------
+- 13:03:23.000 INFO: --------------------------------------------------------
+- 13:03:23.000 INFO: Started application
+- 13:03:23.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:03:23.000 INFO: Log level = INFO
+- 13:03:23.000 INFO: Starting Mongoose web server
+- 13:03:23.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:03:23.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:03:23.000 INFO: Index files: index.html,index.php
+- 13:03:23.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:03:23.000 INFO: CGI pattern: **.php$
+- 13:03:23.000 INFO: IE version from registry: 8.0.7600.16385
+- 13:03:24.203 INFO: GET 200 /
+- 13:03:24.609 INFO: GET 304 /logo.png
+- 13:03:24.609 INFO: GET 304 /1.png
+- 13:03:24.609 INFO: GET 304 /2.png
+- 13:03:24.609 INFO: GET 304 /3.png
+- 13:03:24.609 INFO: GET 304 /excel.png
+- 13:03:24.609 INFO: GET 304 /folder.png
+- 13:03:24.609 INFO: GET 304 /download.png
+- 13:03:30.328 INFO: Stopping Mongoose web server
+- 13:03:30.422 INFO: Ended application
+- 13:03:30.422 INFO: --------------------------------------------------------
+- 13:06:54.000 INFO: --------------------------------------------------------
+- 13:06:54.000 INFO: Started application
+- 13:06:54.016 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:06:54.016 INFO: Log level = INFO
+- 13:06:54.016 INFO: Starting Mongoose web server
+- 13:06:54.016 INFO: Web server url: http://127.0.0.1:54007/
+- 13:06:54.016 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:06:54.016 INFO: Index files: index.html,index.php
+- 13:06:54.016 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:06:54.016 INFO: CGI pattern: **.php$
+- 13:06:54.016 INFO: IE version from registry: 8.0.7600.16385
+- 13:06:54.188 INFO: GET 200 /
+- 13:06:55.610 INFO: GET 304 /logo.png
+- 13:06:55.610 INFO: GET 304 /1.png
+- 13:06:55.625 INFO: GET 304 /excel.png
+- 13:06:55.625 INFO: GET 304 /folder.png
+- 13:06:55.625 INFO: GET 304 /download.png
+- 13:06:55.625 INFO: GET 304 /2.png
+- 13:06:55.625 INFO: GET 304 /3.png
+- 13:07:06.813 INFO: Stopping Mongoose web server
+- 13:07:06.844 INFO: Ended application
+- 13:07:06.844 INFO: --------------------------------------------------------
+- 13:07:21.000 INFO: --------------------------------------------------------
+- 13:07:21.000 INFO: Started application
+- 13:07:21.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:07:21.000 INFO: Log level = INFO
+- 13:07:21.000 INFO: Starting Mongoose web server
+- 13:07:21.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:07:21.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:07:21.000 INFO: Index files: index.html,index.php
+- 13:07:21.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:07:21.000 INFO: CGI pattern: **.php$
+- 13:07:21.015 INFO: IE version from registry: 8.0.7600.16385
+- 13:07:21.219 INFO: GET 200 /
+- 13:07:21.625 INFO: GET 304 /logo.png
+- 13:07:21.625 INFO: GET 304 /1.png
+- 13:07:21.625 INFO: GET 304 /2.png
+- 13:07:21.625 INFO: GET 304 /3.png
+- 13:07:21.625 INFO: GET 304 /excel.png
+- 13:07:21.625 INFO: GET 304 /download.png
+- 13:07:21.625 INFO: GET 304 /folder.png
+- 13:07:27.187 INFO: Stopping Mongoose web server
+- 13:07:27.234 INFO: Ended application
+- 13:07:27.234 INFO: --------------------------------------------------------
+- 13:08:11.000 INFO: --------------------------------------------------------
+- 13:08:11.000 INFO: Started application
+- 13:08:11.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:08:11.000 INFO: Log level = INFO
+- 13:08:11.000 INFO: Starting Mongoose web server
+- 13:08:11.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:08:11.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:08:11.000 INFO: Index files: index.html,index.php
+- 13:08:11.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:08:11.000 INFO: CGI pattern: **.php$
+- 13:08:11.000 INFO: IE version from registry: 8.0.7600.16385
+- 13:08:11.171 INFO: GET 200 /
+- 13:08:12.578 INFO: GET 304 /logo.png
+- 13:08:12.578 INFO: GET 304 /1.png
+- 13:08:12.578 INFO: GET 304 /2.png
+- 13:08:12.578 INFO: GET 304 /3.png
+- 13:08:12.578 INFO: GET 304 /download.png
+- 13:08:12.578 INFO: GET 304 /excel.png
+- 13:08:12.578 INFO: GET 304 /folder.png
+- 13:08:44.265 INFO: Stopping Mongoose web server
+- 13:08:44.421 INFO: Ended application
+- 13:08:44.421 INFO: --------------------------------------------------------
+- 13:08:48.000 INFO: --------------------------------------------------------
+- 13:08:48.000 INFO: Started application
+- 13:08:48.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:08:48.000 INFO: Log level = INFO
+- 13:08:48.000 INFO: Starting Mongoose web server
+- 13:08:48.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:08:48.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:08:48.000 INFO: Index files: index.html,index.php
+- 13:08:48.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:08:48.000 INFO: CGI pattern: **.php$
+- 13:08:48.000 INFO: IE version from registry: 8.0.7600.16385
+- 13:08:48.187 INFO: GET 200 /
+- 13:08:48.609 INFO: GET 304 /logo.png
+- 13:08:48.609 INFO: GET 304 /1.png
+- 13:08:48.609 INFO: GET 304 /2.png
+- 13:08:48.609 INFO: GET 304 /3.png
+- 13:08:48.609 INFO: GET 304 /download.png
+- 13:09:04.359 INFO: Stopping Mongoose web server
+- 13:09:04.422 INFO: Ended application
+- 13:09:04.422 INFO: --------------------------------------------------------
+- 13:12:39.000 INFO: --------------------------------------------------------
+- 13:12:39.000 INFO: Started application
+- 13:12:39.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:12:39.000 INFO: Log level = INFO
+- 13:12:39.000 INFO: Starting Mongoose web server
+- 13:12:39.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:12:39.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:12:39.000 INFO: Index files: index.html,index.php
+- 13:12:39.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:12:39.000 INFO: CGI pattern: **.php$
+- 13:12:39.016 INFO: IE version from registry: 8.0.7600.16385
+- 13:12:39.219 INFO: GET 200 /
+- 13:12:39.610 INFO: GET 304 /logo.png
+- 13:12:39.610 INFO: GET 200 /1.png
+- 13:12:39.625 INFO: GET 200 /3.png
+- 13:12:39.625 INFO: GET 200 /2.png
+- 13:12:39.625 INFO: GET 304 /download.png
+- 13:12:49.735 INFO: Stopping Mongoose web server
+- 13:12:49.844 INFO: Ended application
+- 13:12:49.844 INFO: --------------------------------------------------------
+- 13:15:10.000 INFO: --------------------------------------------------------
+- 13:15:10.000 INFO: Started application
+- 13:15:10.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:15:10.000 INFO: Log level = INFO
+- 13:15:10.000 INFO: Starting Mongoose web server
+- 13:15:10.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:15:10.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:15:10.000 INFO: Index files: index.html,index.php
+- 13:15:10.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:15:10.000 INFO: CGI pattern: **.php$
+- 13:15:10.000 INFO: IE version from registry: 8.0.7600.16385
+- 13:15:10.281 INFO: GET 200 /
+- 13:15:11.609 INFO: GET 304 /logo.png
+- 13:15:11.609 INFO: GET 304 /2.png
+- 13:15:11.609 INFO: GET 304 /3.png
+- 13:15:11.609 INFO: GET 304 /download.png
+- 13:15:14.375 INFO: Stopping Mongoose web server
+- 13:15:14.437 INFO: Ended application
+- 13:15:14.437 INFO: --------------------------------------------------------
+- 13:16:10.000 INFO: --------------------------------------------------------
+- 13:16:10.000 INFO: Started application
+- 13:16:10.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:16:10.000 INFO: Log level = INFO
+- 13:16:10.000 INFO: Starting Mongoose web server
+- 13:16:10.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:16:10.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:16:10.000 INFO: Index files: index.html,index.php
+- 13:16:10.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:16:10.000 INFO: CGI pattern: **.php$
+- 13:16:10.016 INFO: IE version from registry: 8.0.7600.16385
+- 13:16:10.125 INFO: GET 200 /
+- 13:16:10.531 INFO: GET 304 /logo.png
+- 13:16:10.531 INFO: GET 304 /2.png
+- 13:16:10.531 INFO: GET 304 /3.png
+- 13:16:10.547 INFO: GET 304 /download.png
+- 13:16:13.156 INFO: Stopping Mongoose web server
+- 13:16:13.344 INFO: Ended application
+- 13:16:13.344 INFO: --------------------------------------------------------
+- 13:17:10.000 INFO: --------------------------------------------------------
+- 13:17:10.000 INFO: Started application
+- 13:17:10.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:17:10.000 INFO: Log level = INFO
+- 13:17:10.000 INFO: Starting Mongoose web server
+- 13:17:10.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:17:10.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:17:10.000 INFO: Index files: index.html,index.php
+- 13:17:10.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:17:10.000 INFO: CGI pattern: **.php$
+- 13:17:10.015 INFO: IE version from registry: 8.0.7600.16385
+- 13:17:10.203 INFO: GET 200 /
+- 13:17:11.593 INFO: GET 304 /logo.png
+- 13:17:11.593 INFO: GET 304 /1.png
+- 13:17:11.593 INFO: GET 304 /2.png
+- 13:17:11.593 INFO: GET 304 /3.png
+- 13:17:11.593 INFO: GET 304 /download.png
+- 13:17:14.265 INFO: Stopping Mongoose web server
+- 13:17:15.406 INFO: Ended application
+- 13:17:15.406 INFO: --------------------------------------------------------
+- 13:19:44.000 INFO: --------------------------------------------------------
+- 13:19:44.000 INFO: Started application
+- 13:19:44.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:19:44.000 INFO: Log level = INFO
+- 13:19:44.000 INFO: Starting Mongoose web server
+- 13:19:44.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:19:44.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:19:44.000 INFO: Index files: index.html,index.php
+- 13:19:44.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:19:44.000 INFO: CGI pattern: **.php$
+- 13:19:44.016 INFO: IE version from registry: 8.0.7600.16385
+- 13:19:44.219 INFO: GET 200 /
+- 13:19:44.610 INFO: GET 304 /logo.png
+- 13:19:44.610 INFO: GET 200 /1.png
+- 13:19:44.610 INFO: GET 200 /2.png
+- 13:19:44.610 INFO: GET 200 /3.png
+- 13:19:44.625 INFO: GET 304 /download.png
+- 13:19:47.391 INFO: Stopping Mongoose web server
+- 13:19:47.422 INFO: Ended application
+- 13:19:47.422 INFO: --------------------------------------------------------
+- 13:20:30.000 INFO: --------------------------------------------------------
+- 13:20:30.000 INFO: Started application
+- 13:20:30.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:20:30.000 INFO: Log level = INFO
+- 13:20:30.000 INFO: Starting Mongoose web server
+- 13:20:30.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:20:30.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:20:30.000 INFO: Index files: index.html,index.php
+- 13:20:30.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:20:30.000 INFO: CGI pattern: **.php$
+- 13:20:30.000 INFO: IE version from registry: 8.0.7600.16385
+- 13:20:30.187 INFO: GET 200 /
+- 13:20:30.593 INFO: GET 304 /logo.png
+- 13:20:30.593 INFO: GET 304 /1.png
+- 13:20:30.593 INFO: GET 304 /2.png
+- 13:20:30.593 INFO: GET 304 /3.png
+- 13:20:30.593 INFO: GET 304 /download.png
+- 13:20:33.562 INFO: Stopping Mongoose web server
+- 13:20:33.609 INFO: Ended application
+- 13:20:33.609 INFO: --------------------------------------------------------
+- 13:20:46.000 INFO: --------------------------------------------------------
+- 13:20:46.000 INFO: Started application
+- 13:20:46.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:20:46.000 INFO: Log level = INFO
+- 13:20:46.000 INFO: Starting Mongoose web server
+- 13:20:46.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:20:46.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:20:46.000 INFO: Index files: index.html,index.php
+- 13:20:46.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:20:46.000 INFO: CGI pattern: **.php$
+- 13:20:46.000 INFO: IE version from registry: 8.0.7600.16385
+- 13:20:46.188 INFO: GET 200 /
+- 13:20:47.594 INFO: GET 304 /1.png
+- 13:20:47.594 INFO: GET 304 /logo.png
+- 13:20:47.594 INFO: GET 304 /2.png
+- 13:20:47.594 INFO: GET 304 /3.png
+- 13:20:47.594 INFO: GET 304 /download.png
+- 13:21:09.313 INFO: Stopping Mongoose web server
+- 13:28:07.407 INFO: POST 500 /index.php?act=download
+- 13:28:07.422 INFO: Ended application
+- 13:28:07.422 INFO: --------------------------------------------------------
+- 13:28:33.000 INFO: --------------------------------------------------------
+- 13:28:33.000 INFO: Started application
+- 13:28:33.000 INFO: Logging to: C:\Users\User\Desktop\Vdownload Tool\debug.log
+- 13:28:33.000 INFO: Log level = INFO
+- 13:28:33.000 INFO: Starting Mongoose web server
+- 13:28:33.000 INFO: Web server url: http://127.0.0.1:54007/
+- 13:28:33.000 INFO: WWW directory: C:\Users\User\Desktop\Vdownload Tool\www
+- 13:28:33.000 INFO: Index files: index.html,index.php
+- 13:28:33.000 INFO: CGI interpreter: C:\Users\User\Desktop\Vdownload Tool\php\php-cgi.exe
+- 13:28:33.000 INFO: CGI pattern: **.php$
+- 13:28:33.000 INFO: IE version from registry: 8.0.7600.16385
+- 13:28:33.203 INFO: GET 200 /
+- 13:28:34.594 INFO: GET 304 /logo.png
+- 13:28:34.594 INFO: GET 304 /1.png
+- 13:28:34.594 INFO: GET 304 /2.png
+- 13:28:34.594 INFO: GET 304 /3.png
+- 13:28:34.594 INFO: GET 304 /download.png
+- 13:28:51.672 INFO: Stopping Mongoose web server
+- 13:28:51.813 INFO: Ended application
+- 13:28:51.813 INFO: --------------------------------------------------------
+- 06:52:41.047 INFO: --------------------------------------------------------
+- 06:52:41.110 INFO: Started application
+- 06:52:41.110 INFO: Logging to: F:\D\xampp\htdocs\vipul\Done Projects\Vdownload Tool\debug.log
+- 06:52:41.110 INFO: Log level = INFO
+- 06:52:41.110 INFO: Starting Mongoose web server
+- 06:52:41.110 INFO: Web server url: http://127.0.0.1:54007/
+- 06:52:41.110 INFO: WWW directory: F:\D\xampp\htdocs\vipul\Done Projects\Vdownload Tool\www
+- 06:52:41.110 INFO: Index files: index.html,index.php
+- 06:52:41.110 INFO: CGI interpreter: F:\D\xampp\htdocs\vipul\Done Projects\Vdownload Tool\php\php-cgi.exe
+- 06:52:41.110 INFO: CGI pattern: **.php$
+- 06:52:41.110 WARNING: set_ports_option: cannot bind to 127.0.0.1:54007: Unknown error
+- 00:47:27.000 INFO: --------------------------------------------------------
+- 00:47:27.000 INFO: Started application
+- 00:47:27.000 INFO: Logging to: F:\D\xampp\htdocs\vipul\Done Projects\Vdownload Tool\debug.log
+- 00:47:28.016 INFO: Log level = INFO
+- 00:47:28.016 INFO: Starting Mongoose web server
+- 00:47:28.016 INFO: Web server url: http://127.0.0.1:54007/
+- 00:47:28.016 INFO: WWW directory: F:\D\xampp\htdocs\vipul\Done Projects\Vdownload Tool\www
+- 00:47:28.016 INFO: Index files: index.html,index.php
+- 00:47:28.016 INFO: CGI interpreter: F:\D\xampp\htdocs\vipul\Done Projects\Vdownload Tool\php\php-cgi.exe
+- 00:47:28.016 INFO: CGI pattern: **.php$
+- 00:47:28.032 INFO: IE version from registry: 9.10.9200.16540
+- 00:47:28.000 INFO: GET 200 /
+- 00:47:29.141 INFO: GET 200 /logo.png
+- 00:47:29.188 INFO: GET 200 /1.png
+- 00:47:29.188 INFO: GET 200 /2.png
+- 00:47:29.219 INFO: GET 200 /3.png
+- 00:47:29.219 INFO: GET 200 /download.png
+- 00:47:43.938 INFO: Stopping Mongoose web server
+- 00:47:44.047 INFO: Ended application
+- 00:47:44.047 INFO: --------------------------------------------------------
+- 00:49:08.000 INFO: --------------------------------------------------------
+- 00:49:08.000 INFO: Started application
+- 00:49:08.000 INFO: Logging to: F:\D\xampp\htdocs\vipul\Done Projects\Vdownload Tool\debug.log
+- 00:49:08.000 INFO: Log level = INFO
+- 00:49:08.000 INFO: Starting Mongoose web server
+- 00:49:08.000 INFO: Web server url: http://127.0.0.1:54007/
+- 00:49:08.000 INFO: WWW directory: F:\D\xampp\htdocs\vipul\Done Projects\Vdownload Tool\www
+- 00:49:08.000 INFO: Index files: index.html,index.php
+- 00:49:08.000 INFO: CGI interpreter: F:\D\xampp\htdocs\vipul\Done Projects\Vdownload Tool\php\php-cgi.exe
+- 00:49:08.000 INFO: CGI pattern: **.php$
+- 00:49:08.016 INFO: IE version from registry: 9.10.9200.16540
+- 00:49:09.141 INFO: GET 200 /
+- 00:49:09.141 INFO: GET 304 /logo.png
+- 00:49:09.156 INFO: GET 304 /1.png
+- 00:49:09.156 INFO: GET 304 /2.png
+- 00:49:09.156 INFO: GET 304 /3.png
+- 00:49:09.156 INFO: GET 304 /download.png
+- 00:51:07.766 INFO: Stopping Mongoose web server
+- 01:19:19.797 INFO: POST 500 /index.php?act=download
+- 01:19:19.797 INFO: Ended application
+- 01:19:19.797 INFO: --------------------------------------------------------
